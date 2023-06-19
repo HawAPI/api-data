@@ -98,7 +98,7 @@ const clear = async () => {
   try {
     await fs.promises.rm(`./${DB_FOLDER}/`, { recursive: true });
   } catch (err) {
-    error(err);
+    log(`Folder './${DB_FOLDER}/' not found. Skipping..`);
   }
 };
 
