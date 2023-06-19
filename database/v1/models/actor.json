@@ -1,0 +1,22 @@
+{
+  "first_name": "",
+  "last_name": "",
+  "nicknames": [""],
+  "socials": [
+    {
+      "social": "",
+      "handle": "",
+      "url": ""
+    }
+  ],
+  "nationality": "",
+  "birth_date": "",
+  "death_date": "",
+  "gender": 0,
+  "seasons": [""],
+  "awards": [""],
+  "character": "",
+  "thumbnail": "",
+  "images": [""],
+  "sources": "{}"
+}
