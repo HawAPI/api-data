@@ -1,5 +1,16 @@
 # Contributing
 
+## Topics
+
+- [Getting Started](#getting-started)
+  - [Issues](#issues)
+    - [Create a new issue](#create-a-new-issue)
+    - [Solve an issue](#solve-an-issue)
+    - [Make changes locally](#make-changes-locally)
+  - [Commit your update](#commit-your-update)
+  - [Pull Request](#pull-request)
+- [Attribution](#attribution)
+
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected
 on [hawapi.theproject.id/api](https://hawapi.theproject.id/api).
 
