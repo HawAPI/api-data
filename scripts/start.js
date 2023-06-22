@@ -3,8 +3,14 @@
 import { error, log } from "console";
 import fs from "fs";
 
-import { deleteBy, insert, updateBy } from "./utils/repository.js";
-import requests from "../requests/requests.json" assert { type: "json" };
+import {
+  deleteBy,
+  deleteTranslation,
+  insert,
+  insertTranslation,
+  updateBy,
+  updateTranslation,
+} from "./utils/repository.js";
 import {
   DB_FOLDER,
   TABLES,
@@ -12,25 +18,26 @@ import {
   URL,
   VERSION,
 } from "./utils/constants.js";
+import { getSingular } from "./utils/utils.js";
 
 let output = {};
 let outputFile = "./requests/output.json";
+let requestsFile = "./requests/requests.json";
 
 /**
  * Main script
  */
 async function main() {
-  let isTest = false;
-
-  if (process.argv[3] === "--test") {
-    isTest = true;
-    outputFile = "./test/output.json";
-    await setup(isTest);
-  }
-
   // Test API connection
   await ping();
 
+  if (process.argv[3] === "--dev") {
+    outputFile = "./dev/output.json";
+    requestsFile = "./dev/requests.json";
+    await setup();
+  }
+
+  const requests = await getRequests();
   // Loop over all methods
   for (const method in requests) {
     // Loop over all targets
@@ -43,15 +50,25 @@ async function main() {
         const value = requests[method][target][item];
 
         let res;
-        switch (method) {
-          case "POST":
+        let isTranslation = `${getSingular(target)}_uuid` in value;
+        switch (true) {
+          case isTranslation && method === "POST":
+            res = await insertTranslation(target, value);
+            break;
+          case method === "POST":
             res = await insert(target, value);
             break;
-          case "UPDATE":
-            res = await updateBy(value.uuid, target, value);
+          case isTranslation && method === "UPDATE":
+            res = await updateTranslation(target, value);
             break;
-          case "DELETE":
-            res = await deleteBy(value, target);
+          case method === "UPDATE":
+            res = await updateBy(target, value);
+            break;
+          case isTranslation && method === "DELETE":
+            res = await deleteTranslation(target, value);
+            break;
+          case method === "DELETE":
+            res = await deleteBy(target, value);
             break;
           default:
             console.warn(`Method '${method}' is not valid. Skipping`);
@@ -90,7 +107,16 @@ async function ping() {
 }
 
 /**
- * Clear database (or test) folder.
+ * Method to read requests file
+ * @returns All content inside the requests file
+ */
+const getRequests = async () => {
+  const res = await fs.promises.readFile(requestsFile, { encoding: "utf8" });
+  return JSON.parse(res);
+};
+
+/**
+ * Clear database (or dev) folder.
  *
  * The folder to clear is defined with 'DB_FOLDER' on '.env' file.
  */
@@ -106,13 +132,8 @@ const clear = async () => {
  * Script setup
  *
  * * Running for the **first time** will create all 'database' files.
- * * Running with **'--test'** will **DELETE** any './test/' folder and recreate all files.
  */
-const setup = async (isTest) => {
-  if (isTest) {
-    await clear();
-  }
-
+const setup = async () => {
   if (!fs.existsSync(`./${DB_FOLDER}/`)) {
     try {
       await fs.promises.mkdir(`./${DB_FOLDER}/${VERSION}/data/translations`, {
