@@ -1,0 +1,14 @@
+{
+  "name": "@hawapi/api-data",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config scripts/start.js",
+    "dev": "node -r dotenv/config scripts/start.js dotenv_config_path=.env.dev --dev",
+    "clear": "rm -rf ./dev/"
+  },
+  "dependencies": {
+    "dotenv": "^16.1.4"
+  }
+}
