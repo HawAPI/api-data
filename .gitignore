@@ -1,5 +1,5 @@
 node_modules/
-test/
+dev/
 
 .env
-.env.test
+.env.dev
