@@ -1,5 +1,8 @@
 # Contributing
 
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected
+on [hawapi.theproject.id/api](https://hawapi.theproject.id/api).
+
 ## Topics
 
 - [Getting Started](#getting-started)
@@ -10,9 +13,6 @@
   - [Commit your update](#commit-your-update)
   - [Pull Request](#pull-request)
 - [Attribution](#attribution)
-
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected
-on [hawapi.theproject.id/api](https://hawapi.theproject.id/api).
 
 ## Getting Started
 

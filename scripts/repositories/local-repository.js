@@ -6,8 +6,8 @@ import {
   TRANSLATION_TABLES,
   DB_FOLDER,
   VERSION,
-} from "./constants.js";
-import { getSingular } from "./utils.js";
+} from "../constants.js";
+import { getSingular } from "../utils.js";
 
 /**
  * Method that add a new item (to local repository)

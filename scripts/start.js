@@ -10,15 +10,15 @@ import {
   insertTranslation,
   updateBy,
   updateTranslation,
-} from "./utils/repository.js";
+} from "./repositories/remote-repository.js";
 import {
   DB_FOLDER,
   TABLES,
   TRANSLATION_TABLES,
   URL,
   VERSION,
-} from "./utils/constants.js";
-import { getSingular } from "./utils/utils.js";
+} from "./constants.js";
+import { getSingular } from "./utils.js";
 
 let output = {};
 let outputFile = "./requests/output.json";
@@ -31,14 +31,16 @@ async function main() {
   // Test API connection
   await ping();
 
-  if (process.argv[3] === "--dev") {
-    outputFile = "./dev/output.json";
-    requestsFile = "./dev/requests.json";
-    await setup();
+  // Script setup
+  await setup();
+
+  if (process.argv.includes("--dev")) {
+    outputFile = `./${DB_FOLDER}/output.json`;
+    requestsFile = `./${DB_FOLDER}/requests.json`;
   }
 
-  const requests = await getRequests();
   // Loop over all methods
+  const requests = await getRequests();
   for (const method in requests) {
     // Loop over all targets
     for (const target in requests[method]) {
@@ -116,19 +118,6 @@ const getRequests = async () => {
 };
 
 /**
- * Clear database (or dev) folder.
- *
- * The folder to clear is defined with 'DB_FOLDER' on '.env' file.
- */
-const clear = async () => {
-  try {
-    await fs.promises.rm(`./${DB_FOLDER}/`, { recursive: true });
-  } catch (err) {
-    log(`Folder './${DB_FOLDER}/' not found. Skipping..`);
-  }
-};
-
-/**
  * Script setup
  *
  * * Running for the **first time** will create all 'database' files.
@@ -140,27 +129,24 @@ const setup = async () => {
         recursive: true,
       });
 
+      const options = {
+        recursive: true,
+        flag: "w+",
+      };
+
       for (const table in TABLES) {
-        const name = TABLES[table];
         await fs.promises.writeFile(
-          `./${DB_FOLDER}/${VERSION}/data/${name}.json`,
+          `./${DB_FOLDER}/${VERSION}/data/${TABLES[table]}.json`,
           "[]",
-          {
-            recursive: true,
-            flag: "w+",
-          }
+          options
         );
       }
 
       for (const table in TRANSLATION_TABLES) {
-        const name = TRANSLATION_TABLES[table];
         await fs.promises.writeFile(
-          `./${DB_FOLDER}/${VERSION}/data/translations/${name}_translations.json`,
+          `./${DB_FOLDER}/${VERSION}/data/translations/${TRANSLATION_TABLES[table]}_translations.json`,
           "[]",
-          {
-            recursive: true,
-            flag: "w+",
-          }
+          options
         );
       }
     } catch (err) {

@@ -1,6 +1,6 @@
 import { error } from "console";
 
-import { VERSION, URL, TOKEN, TRANSLATION_TABLES } from "./constants.js";
+import { VERSION, URL, TOKEN, TRANSLATION_TABLES } from "../constants.js";
 import {
   deleteLocal,
   deleteLocalTranslation,
@@ -9,7 +9,7 @@ import {
   updateLocal,
   updateLocalTranslation,
 } from "./local-repository.js";
-import { getSingular } from "./utils.js";
+import { getSingular } from "../utils.js";
 
 // Default options
 const options = {
