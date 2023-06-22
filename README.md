@@ -6,16 +6,17 @@ Static data from the [HawAPI](https://github.com/HawAPI/HawAPI) project.
 
 - [Prerequisites](#prerequisites)
 - [Dependencies](#dependencies)
-- [Requesting](#requesting)
+- [Contributing](./docs/CONTRIBUTING.md)
+- [Requesting](./docs/REQUESTTING.md)
 - [Running](#running)
 - [Contact](#contact)
 - [License](#license)
 
 ## Prerequisites
 
-- Text editor or IDE (VsCode, Subline, Noteped++)
+- The **HawAPI** project running (and all its [prerequisites](https://github.com/HawAPI/HawAPI/blob/main/docs/GETTING_STARTED.md#prerequisites))
 - Node
-  - Npm or Yarn
+  - Npm or Yarn for **run the script**
 
 ## Dependencies
 
@@ -44,129 +45,23 @@ git clone git@github.com:HawAPI/website.git
 git clone https://github.com/HawAPI/website.git
 ```
 
-### Requesting
-
-All requests will be placed inside the [requests.json](./requests/requests.json)
-
-> METHOD > TARGET > LIST OF ITEMS
-
-<details>
-<summary>Example</summary>
-
-```json
-{
-  "POST": {
-    "actors": [
-      {
-        "first_name": "Lorem",
-        "last_name": "Ipsum",
-        "nicknames": ["lor", "em"]
-        // ...
-      }
-    ]
-  },
-  "UPDATE": {
-    "actors": [
-      {
-        "uuid": "a07cfae9-4c2e-4bf3-8291-ff86621f72f7",
-        "gender": 1
-        // ...
-      }
-    ]
-  },
-  "DELETE": {
-    "actors": ["a07cfae9-4c2e-4bf3-8291-ff86621f72f7"]
-  }
-}
-```
-
-</details>
-
-#### Output
-
-All request will generate a [output.json](./requests/output.json) file with an **status code** and **message**.
-
-<details>
-<summary>Example</summary>
-
-```json
-{
-  "POST": {
-    "actors": [
-      {
-        "status_code": 201,
-        "message": {
-          "first_name": "Lorem",
-          "last_name": "Ipsum",
-          "nicknames": ["lor", "em"]
-          // ...
-        }
-      }
-    ]
-  },
-  "UPDATE": {
-    "actors": [
-      {
-        "status_code": 200,
-        "message": {
-          "uuid": "a07cfae9-4c2e-4bf3-8291-ff86621f72f7",
-          "gender": 1
-          // ...
-        }
-      }
-    ]
-  },
-  "DELETE": {
-    "actors": [
-      {
-        "status_code": 204,
-        "message": "Deleted item: 'a07cfae9-4c2e-4bf3-8291-ff86621f72f7'"
-      }
-    ]
-  }
-}
-```
-
-</details>
-
-#### Methods
-
-Any method other than `POST`, `UPDATE` and `DELETE` will be ignored
-
-<details>
-<summary>Example</summary>
-
-```json
-{
-  "WRONG": {
-    "actors": [
-      {
-        "status_code": 0,
-        "message": "Method 'WRONG' is not valid"
-      }
-    ]
-  }
-}
-```
-
-</details>
-
 ### Running
 
-> Check [Requesting](#requesting)
+> Check [Requesting](./docs/REQUESTTING.md)
 
-Before running the script, create and define all required variables inside the `.env`. Use [.env.example](.env.example) as reference.
+Before running the script:
 
-If you are running using local HawAPI application create and define all required variables inside the `.env.test` and use the `dev/test` command. Use [.env.test.example](.env.test.example) as reference.
+-
+- Create and define all required variables inside the `.env`. Use [.env.example](.env.example) as reference.
+
+If you are running using local HawAPI application create and define all required variables inside the `.env.dev` and use the `dev` command. Use [.env.dev.example](.env.dev.example) as reference.
 
 #### Dev/Test
 
-Using **dev/test** command all outputs will be stored on a `/test/` folder.
+Using **dev** command all outputs will be stored on a `/dev/` folder.
 
 ```
-make dev
-// or
-make test
+yarn dev
 ```
 
 #### Production
@@ -174,7 +69,7 @@ make test
 Using **start** command all outputs will be stored on a `/database/` folder.
 
 ```
-make start
+yarn start
 ```
 
 ## Contact
