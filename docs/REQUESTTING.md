@@ -1,36 +1,44 @@
 ### Requesting
 
-All requests will be placed inside the [requests.json](./requests/requests.json)
+Following the idea of `Open Source` API, all **HawAPI** data will be available on this repository (JSON format).
+
+- The data can **ONLY** be **ADDED**, **UPDATED** or **DELETED** using this [script](../scripts/start.js)
+- All **POST**, **UPDATE** or **DELETE** will use the respective target endpoint and can **ONLY** be accessed using the _Bearer_ authentication `Token (JWT)`
 
 ### Topics
 
 - [Support](#support)
 - [Request](#request)
+  - [Static data](#static-data)
+  - [Translation data](#translation-data)
 - [Output](#output)
 - [Methods](#methods)
 
 ### Support
 
-| Target                   |      Method(s)       |
-| :----------------------- | :------------------: |
-| actors                   | POST, UPDATE, DELETE |
-| actors/translations      | POST, UPDATE, DELETE |
-| characters               | POST, UPDATE, DELETE |
-| characters/translations  | POST, UPDATE, DELETE |
-| episodes                 | POST, UPDATE, DELETE |
-| episodes/translations    | POST, UPDATE, DELETE |
-| games                    | POST, UPDATE, DELETE |
-| games/translations       | POST, UPDATE, DELETE |
-| locations                | POST, UPDATE, DELETE |
-| locations/translations   | POST, UPDATE, DELETE |
-| seasons                  | POST, UPDATE, DELETE |
-| seasons/translations     | POST, UPDATE, DELETE |
-| soundtracks              | POST, UPDATE, DELETE |
-| soundtracks/translations | POST, UPDATE, DELETE |
+| Target                 | POST | UPDATE | DELETE |      Auth      |
+| :--------------------- | :--: | :----: | :----: | :------------: |
+| actors                 | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| actors/socials         |  No  |   No   |   No   | `Required/JWT` |
+| characters             | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| episodes               | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| episodes/translations  | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| games                  | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| games/translations     | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| locations              | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| locations/translations | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| seasons                | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| seasons/translations   | Yes  |  Yes   |  Yes   | `Required/JWT` |
+| soundtracks            | Yes  |  Yes   |  Yes   | `Required/JWT` |
 
 ### Request
 
-> METHOD > TARGET > LIST OF ITEMS
+> **Note**
+> All requests will be placed inside the [requests/requests.json](./requests/requests.json) or [dev/requests.json](./dev/requests.json) (If running locally)
+
+- METHOD -> TARGET -> LIST OF ITEMS
+
+#### Static data
 
 ```json
 {
@@ -54,14 +62,64 @@ All requests will be placed inside the [requests.json](./requests/requests.json)
     ]
   },
   "DELETE": {
-    "actors": ["a07cfae9-4c2e-4bf3-8291-ff86621f72f7"]
+    "actors": [
+      {
+        "a07cfae9-4c2e-4bf3-8291-ff86621f72f7"
+      }
+    ]
   }
 }
 ```
 
-#### Output
+- 1º - Will **ADD** a new actor item
+- 2º - Will **UPDATE** an actor item USING the **UUID** as reference
+- 3º - Will **DELETE** an actor (and all translations if any) item USING the **UUID** as reference
 
-All request will generate a [output.json](./requests/output.json) file with an **status code** and **message**.
+#### Translation data
+
+> **Note**
+> The script will validate translation data using the '\<target\>\_uuid' and/or 'language' fields
+
+```json
+{
+  "POST": {
+    "episodes": [
+      {
+        "language": "en-US",
+        "title": "Lorem",
+        "description": "Ipsum"
+        // ...
+      }
+    ]
+  },
+  "UPDATE": {
+    "episodes": [
+      {
+        "episode_uuid": "a07cfae9-4c2e-4bf3-8291-ff86621f72f7",
+        "language": "en-US",
+        "title": "Lorem Ipsum"
+        // ...
+      }
+    ]
+  },
+  "DELETE": {
+    "episodes": [
+      {
+        "episode_uuid": "a07cfae9-4c2e-4bf3-8291-ff86621f72f7",
+        "language": "en-US"
+      }
+    ]
+  }
+}
+```
+
+- 1º - Will **ADD** a new episode translation
+- 2º - Will **UPDATE** an episode translation USING the **UUID** and **LANGUAGE** as reference
+- 3º - Will **DELETE** an episode translation USING the **UUID** and **LANGUAGE** as reference
+
+### Output
+
+All request will generate a [requests/output.json](./requests/output.json) or [dev/output.json](./dev/output.json) (If running locally) with an **status code** and **message**.
 
 ```json
 {
@@ -101,7 +159,7 @@ All request will generate a [output.json](./requests/output.json) file with an *
 }
 ```
 
-#### Methods
+### Methods
 
 Any method other than `POST`, `UPDATE` and `DELETE` will be ignored
 

@@ -8,6 +8,8 @@ Static data from the [HawAPI](https://github.com/HawAPI/HawAPI) project.
 - [Dependencies](#dependencies)
 - [Contributing](./docs/CONTRIBUTING.md)
 - [Requesting](./docs/REQUESTTING.md)
+  - [Requesting#Static](./docs/REQUESTTING.md#static-data)
+  - [Requesting#Translation](./docs/REQUESTTING.md#translation-data)
 - [Running](#running)
 - [Contact](#contact)
 - [License](#license)
