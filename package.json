@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node -r dotenv/config scripts/start.js",
     "dev": "node -r dotenv/config scripts/start.js dotenv_config_path=.env.dev --dev",
+    "convert": "node -r dotenv/config scripts/converter/json-to-sql.js",
+    "convert-dev": "node -r dotenv/config scripts/converter/json-to-sql.js dotenv_config_path=.env.dev",
     "clear": "rm -rf ./dev/"
   },
   "dependencies": {
