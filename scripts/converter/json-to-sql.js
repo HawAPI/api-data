@@ -43,95 +43,47 @@ const jsonToSQL = async (target) => {
   for (const item in data) {
     const uuid = data[item]["uuid"];
 
-    let subQueries = [];
-    let query = `INSERT INTO ${target} (`;
+    let sqlQuery = `INSERT INTO ${target} (`;
 
-    let fields = "";
-    let values = "";
-    for (const field in data[item]) {
-      let value = data[item][field];
-
-      switch (typeof value) {
-        case "string":
-          values += `'${escapeSingleQuote(value)}', `;
-          break;
-        case "number":
-        case "boolean":
-          values += `${value}, `;
-          break;
-        case "object":
-          if (Array.isArray(value)) {
-            const res = subQuery(target, field, value);
-            if (res !== "") {
-              subQueries.push(res);
-              continue;
-            }
-            values += `'${objectToPostgreSQLArray(value)}', `;
-          }
-          break;
-      }
-
-      if (SPECIAL_NAMES.includes(field)) {
-        fields += `"${field}", `;
-        continue;
-      }
-
-      fields += `${field}, `;
-    }
+    let { fields, values, subQueries } = query(target, data[item]);
 
     fields = fields.slice(0, -2);
     values = values.slice(0, -2);
 
     if (TRANSLATION_TABLES.includes(target)) {
-      let data = await fs.readFile(
-        `./${DB_FOLDER}/${VERSION}/data/translations/${target}_translations.json`
-      );
-      data = JSON.parse(data);
-
-      for (const item in data) {
-        if (data[item][`${getSingular(target)}_uuid`] === uuid) {
-          let query1 = `INSERT INTO ${target}_translations (`;
-
-          let fields1 = "";
-          let values1 = "";
-          for (const field in data[item]) {
-            let value = data[item][field];
-
-            switch (typeof value) {
-              case "string":
-                values1 += `'${escapeSingleQuote(value)}', `;
-                break;
-              case "number":
-              case "boolean":
-                values1 += `${value}, `;
-                break;
-              case "object":
-                values1 += `${objectToPostgreSQLArray(value)}, `;
-                continue;
-            }
-
-            if (SPECIAL_NAMES.includes(field)) {
-              fields1 += `"${field}", `;
-              continue;
-            }
-
-            fields1 += `${field}, `;
-          }
-
-          fields1 = fields1.slice(0, -2);
-          values1 = values1.slice(0, -2);
-
-          query1 += fields1 + ") VALUES (" + values1 + ");\n";
-          subQueries.push(query1);
-        }
-      }
+      let res = await translationQuery(target, uuid);
+      subQueries.push(...res);
     }
 
-    query += fields + ") VALUES (" + values + ");\n";
-    queries.push(query, ...subQueries);
+    sqlQuery += fields + ") VALUES (" + values + ");\n";
+    queries.push(sqlQuery, ...subQueries);
   }
 
   await fs.writeFile(`${OUTPUT_PATH}/hawapi.sql`, queries, { flag: "a" });
+};
+
+const translationQuery = async (target, uuid) => {
+  let data = await fs.readFile(
+    `./${DB_FOLDER}/${VERSION}/data/translations/${target}_translations.json`
+  );
+  data = JSON.parse(data);
+
+  let res = [];
+  for (const item in data) {
+    if (data[item][`${getSingular(target)}_uuid`] === uuid) {
+      let sqlQuery = `INSERT INTO ${target}_translations (`;
+
+      let { fields, values } = query(target, data[item]);
+
+      fields = fields.slice(0, -2);
+      values = values.slice(0, -2);
+
+      sqlQuery += fields + ") VALUES (" + values + ");\n";
+      res.push(sqlQuery);
+    }
+  }
+
+  return res;
 };
 
 const subQuery = (target, fieldName, array) => {
@@ -193,11 +145,13 @@ const escapeSingleQuote = (value) => {
   return value.replace(/'/g, "''");
 };
 
-const fieldsAndValues = () => {
+const query = (target, array) => {
+  let subQueries = [];
   let fields = "";
   let values = "";
-  for (const field in array[item]) {
-    let value = array[item][field];
+
+  for (const field in array) {
+    let value = array[field];
 
     switch (typeof value) {
       case "string":
@@ -208,10 +162,15 @@ const fieldsAndValues = () => {
         values += `${value}, `;
         break;
       case "object":
-        if (!Array.isArray(value)) {
-          values += `${objectToPostgreSQLArray(value)}, `;
+        if (Array.isArray(value)) {
+          const res = subQuery(target, field, value);
+          if (res !== "") {
+            subQueries.push(res);
+            continue;
+          }
+          values += `'${objectToPostgreSQLArray(value)}', `;
         }
-        continue;
+        break;
     }
 
     if (SPECIAL_NAMES.includes(field)) {
@@ -221,6 +180,12 @@ const fieldsAndValues = () => {
 
     fields += `${field}, `;
   }
+
+  return {
+    fields,
+    values,
+    subQueries,
+  };
 };
 
 main();
