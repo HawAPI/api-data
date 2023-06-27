@@ -21,7 +21,7 @@ export const TOKEN = process.env.TOKEN;
 /**
  * List of tables that require translations.
  *
- * All translations will be saved on 'data/translations/<target>_translations.json'
+ * All translations will be saved on 'data/translations/\<target\>_translations.json'
  */
 export const TRANSLATION_TABLES = ["episodes", "games", "locations", "seasons"];
 

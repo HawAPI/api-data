@@ -1,0 +1,34 @@
+[
+  {
+    "string": "test",
+    "number": 0,
+    "bool": true,
+    "string_list": ["test", "test", "test"],
+    "number_list": [0, 1, 2],
+    "bool_list": [false, true],
+    "sub": [
+      {
+        "string": "test",
+        "number": 0,
+        "bool": true
+      }
+    ],
+    "sub_multi": [
+      {
+        "string": "test",
+        "number": 0,
+        "bool": true
+      },
+      {
+        "string": "test",
+        "number": 0,
+        "bool": true
+      }
+    ],
+    "dict": {
+      "string": "test",
+      "number": 0,
+      "bool": true
+    }
+  }
+]
