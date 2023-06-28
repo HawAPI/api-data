@@ -5,12 +5,17 @@
   "trailer": "",
   "languages": [""],
   "release_date": "",
-  "url": "",
+  "website": "",
+  "playtime": 0,
+  "age_rating": "",
+  "stores": [""],
+  "modes": [""],
   "publishers": [""],
   "developers": [""],
   "platforms": [""],
   "genres": [""],
+  "tags": [""],
   "thumbnail": "",
   "images": [""],
-  "sources": "{}"
+  "sources": [""]
 }
