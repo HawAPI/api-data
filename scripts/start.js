@@ -89,7 +89,7 @@ async function main() {
     if (error) throw error;
   });
 
-  fs.writeFile("./requests/requests.json", "", (error) => {
+  fs.writeFile(requestsFile, "{}", (error) => {
     if (error) throw error;
   });
 }
