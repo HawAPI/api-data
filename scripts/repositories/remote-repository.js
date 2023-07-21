@@ -43,7 +43,7 @@ export const insert = async (target, body) => {
     status_code: result.status,
     message: await getMessageOr(
       result,
-      `Something wrong happen. Item: '${uuid}`
+      `Something wrong happen. Item: '${target}`
     ),
   };
 };
@@ -227,6 +227,9 @@ const getMessageOr = async (response, fallback) => {
   try {
     message = await response.json();
   } catch (err) {
+    // Handle 2XX without body
+    if (response.ok) return null;
+
     error(err);
     message = fallback;
   }
