@@ -1,0 +1,165 @@
+[
+  {
+    "uuid": "00c0d5d4-4ba6-4f63-9062-8c1c4cb37f88",
+    "href": "/api/v1/games/00c0d5d4-4ba6-4f63-9062-8c1c4cb37f88",
+    "sources": [
+      "https://www.igdb.com/games/stranger-things-the-game",
+      "https://rawg.io/games/stranger-things-the-game"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/x3vyN.jpg",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "stores": [
+      "https://play.google.com/store/apps/details?id=com.netflix.NGP.StrangerThings",
+      "https://apps.apple.com/us/app/stranger-things-1984/id1574739824"
+    ],
+    "modes": [
+      "Single Player"
+    ],
+    "publishers": [
+      "BonusXP",
+      "Netflix"
+    ],
+    "developers": [
+      "BonusXP"
+    ],
+    "website": "https://bonusxp.com/games/stranger-things-the-game/",
+    "tags": [
+      "Pixel Graphics",
+      "Retro",
+      "Dungeons",
+      "RPG-Adventure",
+      "Sci-Fi",
+      "Side-Quests"
+    ],
+    "languages": [
+      "en-US"
+    ],
+    "images": [
+      "https://cdn.mobilesyrup.com/wp-content/uploads/2017/10/stranger-things-the-game-3.jpg",
+      "https://cdn.mobilesyrup.com/wp-content/uploads/2017/10/stranger-things-the-game-2.jpg",
+      "https://cdn.mobilesyrup.com/wp-content/uploads/2017/10/stranger-things-the-game-1.jpg",
+      "https://assets1.ignimgs.com/2019/03/20/stranger-things-3-game---button-fin-1553102079523.jpg",
+      "https://oceanofgamer.com/wp-content/uploads/2019/07/Stranger-Things-3-The-Game-Free-Download-1.jpg",
+      "https://oceanofgamer.com/wp-content/uploads/2019/07/Stranger-Things-3-The-Game-Free-Download-2.jpg"
+    ],
+    "created_at": "2023-07-25T20:34:31.68",
+    "updated_at": "2023-07-25T20:34:31.68",
+    "age_rating": "16+",
+    "release_date": "2017-10-04"
+  },
+  {
+    "uuid": "12bfd7da-9126-4e5f-b065-6e32bc0afc86",
+    "href": "/api/v1/games/12bfd7da-9126-4e5f-b065-6e32bc0afc86",
+    "sources": [
+      "https://www.igdb.com/games/stranger-things-the-game",
+      "https://rawg.io/games/stranger-things-the-game"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/x3x2q.jpg",
+    "playtime": 18000000,
+    "platforms": [
+      "Android",
+      "iOS",
+      "Xbox One",
+      "Playstation 4",
+      "Mac",
+      "PC",
+      "Nintendo Switch"
+    ],
+    "stores": [
+      "https://play.google.com/store/apps/details?id=com.netflix.NGP.StrangerThings3",
+      "https://apps.apple.com/us/app/stranger-things-3-the-game/id1574824199",
+      "https://www.xbox.com/en-us/games/store/stranger-things-3-the-game/9nct0qggx6xd?cid=msft_web_chart",
+      "https://store.steampowered.com/app/1097800/Stranger_Things_3_The_Game/",
+      "https://store.epicgames.com/en-US/p/stranger-things-3-the-game"
+    ],
+    "modes": [
+      "Co-operative",
+      "Single Player",
+      "Multi Player"
+    ],
+    "publishers": [
+      "BonusXP",
+      "Netflix"
+    ],
+    "developers": [
+      "BonusXP"
+    ],
+    "website": "https://bonusxp.com/strangerthings3thegame/",
+    "tags": [
+      "1980s",
+      "Co-Op",
+      "Pixel Graphics",
+      "Retro",
+      "Dungeons",
+      "RPG-Adventure",
+      "Sci-Fi",
+      "Horror"
+    ],
+    "languages": [
+      "en-US"
+    ],
+    "images": [
+      "https://assets1.ignimgs.com/2019/07/06/desktop-screenshot-20190703---10160904-1562447041752.png",
+      "https://assets1.ignimgs.com/2019/07/06/desktop-screenshot-20190703---11182504-1562447041762.png",
+      "https://assets1.ignimgs.com/2019/07/06/desktop-screenshot-20190703---11050097-1562447041761.png",
+      "https://assets1.ignimgs.com/2019/07/06/desktop-screenshot-20190703---10512491-1562447041758.png",
+      "https://gertlushgaming.co.uk/wp-content/uploads/2019/07/Stranger-Things-3-The-Game-4.jpg",
+      "https://gertlushgaming.co.uk/wp-content/uploads/2019/07/Stranger-Things-3-The-Game-2.jpg",
+      "https://www.xboxtavern.com/wp-content/uploads/2019/07/StrangerThings3TGRevRB2.jpg"
+    ],
+    "created_at": "2023-07-25T20:34:31.746",
+    "updated_at": "2023-07-25T20:34:31.746",
+    "age_rating": "16+",
+    "release_date": "2019-07-03"
+  },
+  {
+    "uuid": "23ef239a-26e1-455c-bd4e-e3e5ca3f6bf6",
+    "href": "/api/v1/games/23ef239a-26e1-455c-bd4e-e3e5ca3f6bf6",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Stranger_Things:_Puzzle_Tales",
+      "https://play.google.com/store/apps/details?id=com.netflix.NGP.StrangerThingsPuzzleTales"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/x32XB.jpg",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "stores": [
+      "https://play.google.com/store/apps/details?id=com.netflix.NGP.StrangerThingsPuzzleTales",
+      "https://apps.apple.com/us/app/stranger-things-puzzle-tales/id1633705525"
+    ],
+    "modes": [
+      "Single Player"
+    ],
+    "publishers": [
+      "Netflix"
+    ],
+    "developers": [
+      "Next Games"
+    ],
+    "website": "https://www.strangerthingspuzzletales.com/",
+    "tags": [
+      "Casual",
+      "Stylized"
+    ],
+    "languages": [
+      "en-US"
+    ],
+    "images": [
+      "https://s6.imgcdn.dev/x3ONu.jpg",
+      "https://s6.imgcdn.dev/x3ZBL.jpg",
+      "https://s6.imgcdn.dev/x39ba.jpg",
+      "https://www.strangerthingspuzzletales.com/uploads/Stranger-things/stranger-things-slide-1.png",
+      "https://www.strangerthingspuzzletales.com/uploads/Stranger-things/stranger-things-slide-2.png",
+      "https://www.strangerthingspuzzletales.com/uploads/Stranger-things/stranger-things-slide-3.png",
+      "https://www.strangerthingspuzzletales.com/uploads/Stranger-things/stranger-things-slide-4.png"
+    ],
+    "created_at": "2023-07-25T20:34:31.768",
+    "updated_at": "2023-07-25T20:34:31.768",
+    "age_rating": "10+",
+    "release_date": "2022-11-02"
+  }
+]
