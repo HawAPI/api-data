@@ -1,0 +1,253 @@
+[
+  {
+    "uuid": "ef69d278-76be-478e-a087-c81071cb83c3",
+    "href": "/api/v1/characters/ef69d278-76be-478e-a087-c81071cb83c3",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Mike_Wheeler"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xm7Sq.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actorss/52b8e340-aa3b-4899-af56-4bd727512cbd",
+    "images": [
+      "https://static.wikia.nocookie.net/strangerthings8338/images/1/19/Mike_S02E09.jpg",
+      "https://upload.wikimedia.org/wikipedia/pt/e/e7/Mike-Wheeler-S3.jpg",
+      "https://rollingstone.uol.com.br/media/uploads/2023/02/stranger-things-mike-morre-5-temporada-foto-reproducao-netflix.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/stranger-things-finn-wolfhard-1654185204.jpg"
+    ],
+    "first_name": "Mike",
+    "last_name": "Wheeler",
+    "birth_date": "1971-04-07"
+  },
+  {
+    "uuid": "6ffa607c-40c4-41c5-b603-17c396dd2310",
+    "href": "/api/v1/characters/6ffa607c-40c4-41c5-b603-17c396dd2310",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Jane_Hopper"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmBmB.jpg",
+    "nicknames": [
+      "El",
+      "Eleven",
+      "Jane Ives"
+    ],
+    "gender": 2,
+    "actor": "/api/v1/actors/e926c3b3-cf32-4906-b820-54ec7896cbae",
+    "images": [
+      "https://media.npr.org/assets/img/2016/08/23/eleven-stops-fan.r_wide-16a9af3d243887163f7c1fa96eff5ee0e64a1a53.jpg",
+      "https://decider.com/wp-content/uploads/2016/07/stranger-things-eleven.jpg",
+      "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/04/novo-poster-de-stranger-things-e1651082281716.jpg",
+      "https://static.onecms.io/wp-content/uploads/sites/6/2019/07/stranger_things_s03e02_4m23s6316f_r-2000.jpg"
+    ],
+    "first_name": "Jane",
+    "last_name": "Hopper",
+    "birth_date": "1971-01-01"
+  },
+  {
+    "uuid": "323d50d2-abb5-474c-9e7d-b7ff481e2d58",
+    "href": "/api/v1/characters/323d50d2-abb5-474c-9e7d-b7ff481e2d58",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Dustin_Henderson"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmSuu.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actors/6e8d95ce-babf-4042-8db8-eeaa76866118",
+    "images": [
+      "https://br.paipee.com/wp-content/uploads/2022/09/82011cc71a146ad494be1eeb1bb43675.jpg",
+      "https://www.rutgers.edu/sites/default/files/styles/max_width_embed_1024_1x/public/legacy-inline/2019/Aug/Gaten_600.jpg",
+      "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2017/11/Gaten-Matarazzo-Dustin-de-Stranger-Things.jpg",
+      "https://farofageek.com.br/wp-content/uploads/2017/11/dustin-casaco-brontossauro.jpg"
+    ],
+    "first_name": "Dustin",
+    "last_name": "Henderson",
+    "birth_date": "1971-05-29"
+  },
+  {
+    "uuid": "f207fdcb-8ed1-4bc5-8290-5776647650da",
+    "href": "/api/v1/characters/f207fdcb-8ed1-4bc5-8290-5776647650da",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Lucas_Sinclair"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmAKt.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actors/89faf6c1-6a56-4532-b6fc-6a2b1d0e718c",
+    "images": [
+      "https://static.wikia.nocookie.net/strangerthings/images/a/a6/Lucas.png",
+      "https://img.quizur.com/f/img62d9c9f25ff1c7.59742232.jpeg",
+      "https://images.immediate.co.uk/production/volatile/sites/3/2017/10/Stranger-Things-Lucas-377035b-e1508844331694.jpg",
+      "https://i.pinimg.com/736x/70/97/47/7097471eb31588e3ef664344cf4957d8.jpg"
+    ],
+    "first_name": "Lucas",
+    "last_name": "Sinclair",
+    "birth_date": "1971-01-01"
+  },
+  {
+    "uuid": "bb7b93ef-1515-4a18-806d-5c2b464f3cc6",
+    "href": "/api/v1/characters/bb7b93ef-1515-4a18-806d-5c2b464f3cc6",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Will_Byers"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmWu2.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actors/71b78a1c-73b4-4e70-96bc-b14602e554c5",
+    "images": [
+      "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2022-05/220531-stranger-things-will-byers-noah-schnapp-se-1040a-8e90dd.jpg",
+      "https://static.wikia.nocookie.net/strangerthings/images/8/85/Will_086.png",
+      "https://www.usmagazine.com/wp-content/uploads/will-byers-noah-schnapp-stranger-things-e1f5e006-d90e-436b-b4cf-51ade6e46dfb.jpg",
+      "https://best-of-netflix.com/static/uploads/4/2022/05/Will-byers.jpg"
+    ],
+    "first_name": "Will",
+    "last_name": "Byers",
+    "birth_date": "1971-05-22"
+  },
+  {
+    "uuid": "968502f4-35d5-4038-857a-b7660c19ff53",
+    "href": "/api/v1/characters/968502f4-35d5-4038-857a-b7660c19ff53",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Max_Mayfield"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmOZT.jpg",
+    "gender": 2,
+    "actor": "/api/v1/actors/259b106a-31c1-489c-8d74-43fc874e7b2c",
+    "images": [
+      "https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2022/06/29114813/strangerthings-crop-1656499738-960x960.jpg",
+      "https://assets.mycast.io/posters/which-actresses-should-ve-played-max-mayfield-in-various-decades-fan-casting-poster-296308-large.jpg",
+      "https://e1.pxfuel.com/desktop-wallpaper/641/583/desktop-wallpaper-stranger-things-3-portraits-max-mayfield.jpg",
+      "https://i0.wp.com/www.strangerthingsoutfits.com/wp-content/uploads/2022/11/Stranger-Things-Max-Mayfield-Green-Jacket-FRONT.jpg"
+    ],
+    "first_name": "Max",
+    "last_name": "Mayfield",
+    "birth_date": "1971-01-01"
+  },
+  {
+    "uuid": "42013499-bd32-4a71-981c-5317473516dd",
+    "href": "/api/v1/characters/42013499-bd32-4a71-981c-5317473516dd",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Nancy_Wheeler"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmRi9.jpg",
+    "gender": 2,
+    "actor": "/api/v1/actors/95ed14fc-0692-49d0-8cb1-a9efc013932a",
+    "images": [
+      "https://i.pinimg.com/736x/64/a9/92/64a992b4e4dcb23c91df2259c18862b8.jpg",
+      "https://miro.medium.com/v2/resize:fit:1138/1*7_aHEtgBPNpO08E0N2ecEA.png",
+      "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/05/nancy-wheeler-stranger-things-season-4-1.jpg",
+      "https://img.buzzfeed.com/buzzfeed-static/static/2022-06/7/1/asset/a387859b6569/sub-buzz-1576-1654565547-22.png"
+    ],
+    "first_name": "Nancy",
+    "last_name": "Wheeler",
+    "birth_date": "1967-01-01"
+  },
+  {
+    "uuid": "8ee8e64b-78c6-4b98-9b53-9379807551e1",
+    "href": "/api/v1/characters/8ee8e64b-78c6-4b98-9b53-9379807551e1",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Steve_Harrington"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmfm8.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actors/e2216b8e-9f04-4e3e-b4d5-5217f4684082",
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/mh-steve-stranger-things-legend-1561499047-1-1561561628.jpg",
+      "https://i0.wp.com/bamfstyle.com/wp-content/uploads/2022/05/STSteveMO2-MAIN1.jpg",
+      "https://sm.ign.com/ign_br/screenshot/default/steve-deve-morrer-stranger-things-4_7ewe.jpg",
+      "https://wallpapers.com/images/hd/joe-keery-as-steve-harrington-269ta2a0lx9scwzl.jpg"
+    ],
+    "first_name": "Steve",
+    "last_name": "Harrington",
+    "birth_date": "1967-01-01"
+  },
+  {
+    "uuid": "b5f2e581-3791-4de6-acce-c399da157698",
+    "href": "/api/v1/characters/b5f2e581-3791-4de6-acce-c399da157698",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Joyce_Byers"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xm2hw.jpg",
+    "gender": 2,
+    "actor": "/api/v1/actors/ec6c5daa-8046-4743-85fc-63fd143ef454",
+    "images": [
+      "https://media.vanityfair.com/photos/594c0a35abcbd63dc43099be/1:1/w_1028,h_1028,c_limit/Winona-Stranger-Things.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/stranger-things-season-3-joyce-byers-uhdpaper-com-8k-13-1563466975.jpg",
+      "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Joyce-Byers.Stranger-Things.webp",
+      "https://costumesheaven.b-cdn.net/wp-content/uploads/2022/11/joyce-byers.jpg"
+    ],
+    "first_name": "Joyce",
+    "last_name": "Byers",
+    "birth_date": "1942-01-01"
+  },
+  {
+    "uuid": "2e01bf0e-dca8-4da2-975f-9c1283a99a64",
+    "href": "/api/v1/characters/2e01bf0e-dca8-4da2-975f-9c1283a99a64",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Robin_Buckley"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmVry.jpg",
+    "gender": 2,
+    "actor": "/api/v1/actors/ed0849d1-8dbc-4317-8084-7364d80ef363",
+    "images": [
+      "https://static.wikia.nocookie.net/strangerthings8338/images/c/c0/Robin_Buckley_-_S4.jpg",
+      "https://static.wikia.nocookie.net/lgbt-characters/images/0/02/Robin_Buckley.jpg",
+      "https://www.mjackets.com/wp-content/uploads/2022/06/Robin-Buckley-TV-Series-Stranger-Things-Maya-Hawke-Fur-Collar-Jacket.jpg",
+      "https://www.autostraddle.com/wp-content/uploads/2022/08/4-1.png"
+    ],
+    "first_name": "Robin",
+    "last_name": "Buckley",
+    "birth_date": "1968-03-10"
+  },
+  {
+    "uuid": "48bde91d-aa72-465d-ba6d-f8625009561d",
+    "href": "/api/v1/characters/48bde91d-aa72-465d-ba6d-f8625009561d",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Jim_Hopper"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmvWa.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actors/ffa1c1a1-7242-4967-a295-ace92d2bd32f",
+    "images": [
+      "https://www.looper.com/img/gallery/jim-hoppers-entire-stranger-things-backstory-explained/intro-1591958236.jpg",
+      "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/08/Jim-Hopper-975x1024.webp",
+      "https://www.koimoi.com/wp-content/new-galleries/2020/09/stranger-things-season-4-david-harbour-reveals-why-he-lied-about-jim-hoppers-death001.jpg",
+      "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/08/David-Harbour-em-Stranger-Things-Imagem-Reproducao-Netflix-1024x684.jpg"
+    ],
+    "first_name": "Jim",
+    "last_name": "Hopper",
+    "birth_date": "1941-01-01"
+  },
+  {
+    "uuid": "d4e6d329-d8c3-46ea-9657-21e5984d773e",
+    "href": "/api/v1/characters/d4e6d329-d8c3-46ea-9657-21e5984d773e",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Murray_Bauman"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmZ8D.jpg",
+    "gender": 1,
+    "actor": "/api/v1/actors/4ae2fc77-8f40-48ba-b4d6-1cc6b564dfd3",
+    "images": [
+      "https://hips.hearstapps.com/hmg-prod/images/stranger-things-murray-bauman-1-1562966130.png",
+      "https://pyxis.nymag.com/v1/imgs/beb/3db/c45ec2f83466cff18546955c2e7a799691-4-Murray-Bauman.jpg",
+      "https://media.distractify.com/brand-img/BlEQVkMnK/0x0/murrayst-1656682038690.jpg",
+      "https://media.gq.com/photos/6290f31f3c930909b7be0766/4:3/w_2559,h_1919,c_limit/StrangerThings_StrangerThings4_2_00_17_15_18.jpeg"
+    ],
+    "first_name": "Murray",
+    "last_name": "Bauman"
+  },
+  {
+    "uuid": "7252f514-dac5-4032-a006-f4f58ab9a890",
+    "href": "/api/v1/characters/7252f514-dac5-4032-a006-f4f58ab9a890",
+    "sources": [
+      "https://strangerthings.fandom.com/wiki/Erica_Sinclair"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmraL.jpg",
+    "gender": 2,
+    "actor": "/api/v1/actors/ac7df2a6-1b65-4300-af81-d0c69157c65a",
+    "images": [
+      "https://assets.teenvogue.com/photos/5e513c1d47cc5a0008ee7fb4/1:1/w_3000,h_3000,c_limit/D21_promo_stills_022519.0048_R.jpg",
+      "https://static.wikia.nocookie.net/p__/images/d/db/EricaPosterSeason3.jpg",
+      "https://images.immediate.co.uk/production/volatile/sites/3/2019/07/erica-176a2fe.jpg",
+      "https://static.wikia.nocookie.net/heroes-and-villain/images/4/40/Erica_Sinclair_ST4.jpg"
+    ],
+    "first_name": "Erica",
+    "last_name": "Sinclair",
+    "birth_date": "1975-01-01"
+  }
+]
