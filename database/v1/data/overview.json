@@ -1,0 +1,19 @@
+[
+  {
+    "uuid": "90edba4c-4399-4582-847c-833c597b03c1",
+    "href": "/api/v1/overview/90edba4c-4399-4582-847c-833c597b03c1",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/2rdwu.jpg",
+    "languages": [
+      "en-US"
+    ],
+    "creators": [
+      "Matt Duffer",
+      "Ross Duffer"
+    ],
+    "created_at": "2023-08-07T15:46:09.091",
+    "updated_at": "2023-08-07T15:46:09.091"
+  }
+]
