@@ -8,10 +8,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtGV9.jpg",
     "duration": 2940000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.814",
     "updated_at": "2023-07-23T20:19:29.814",
     "episode_num": 1,
@@ -27,10 +23,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xt9bC.jpg",
     "duration": 3360000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.836",
     "updated_at": "2023-07-23T20:19:29.836",
     "episode_num": 2,
@@ -46,10 +38,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtZBS.jpg",
     "duration": 3180000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.853",
     "updated_at": "2023-07-23T20:19:29.853",
     "episode_num": 3,
@@ -65,10 +53,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtOIH.jpg",
     "duration": 3060000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.869",
     "updated_at": "2023-07-23T20:19:29.869",
     "episode_num": 4,
@@ -84,10 +68,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtx22.jpg",
     "duration": 3240000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.881",
     "updated_at": "2023-07-23T20:19:29.881",
     "episode_num": 5,
@@ -103,10 +83,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xt2Xi.jpg",
     "duration": 2880000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.893",
     "updated_at": "2023-07-23T20:19:29.893",
     "episode_num": 6,
@@ -122,10 +98,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtSpy.jpg",
     "duration": 2580000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.908",
     "updated_at": "2023-07-23T20:19:29.908",
     "episode_num": 7,
@@ -141,10 +113,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtvs8.jpg",
     "duration": 3360000,
     "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T20:19:29.924",
     "updated_at": "2023-07-23T20:19:29.924",
     "episode_num": 8,
@@ -160,10 +128,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtFbO.jpg",
     "duration": 2940000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:18.936",
     "updated_at": "2023-07-23T22:21:18.936",
     "episode_num": 1,
@@ -179,10 +143,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtqBo.jpg",
     "duration": 3420000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:18.96",
     "updated_at": "2023-07-23T22:21:18.96",
     "episode_num": 2,
@@ -198,10 +158,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtmNK.jpg",
     "duration": 3120000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:18.976",
     "updated_at": "2023-07-23T22:21:18.976",
     "episode_num": 3,
@@ -217,10 +173,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtbXV.jpg",
     "duration": 2820000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:18.991",
     "updated_at": "2023-07-23T22:21:18.991",
     "episode_num": 4,
@@ -236,10 +188,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtLAh.jpg",
     "duration": 3540000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:19.008",
     "updated_at": "2023-07-23T22:21:19.008",
     "episode_num": 5,
@@ -255,10 +203,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xt3yl.jpg",
     "duration": 3180000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:19.023",
     "updated_at": "2023-07-23T22:21:19.023",
     "episode_num": 6,
@@ -274,10 +218,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtWpd.jpg",
     "duration": 2760000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:19.037",
     "updated_at": "2023-07-23T22:21:19.037",
     "episode_num": 7,
@@ -293,10 +233,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xtfl0.jpg",
     "duration": 2940000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:19.053",
     "updated_at": "2023-07-23T22:21:19.053",
     "episode_num": 8,
@@ -312,10 +248,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xttfM.jpg",
     "duration": 3780000,
     "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-23T22:21:19.07",
     "updated_at": "2023-07-23T22:21:19.07",
     "episode_num": 9,
@@ -331,10 +263,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdYPM.jpg",
     "duration": 3060000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.681",
     "updated_at": "2023-07-24T12:33:55.681",
     "episode_num": 1,
@@ -349,10 +277,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdDh0.jpg",
     "duration": 3060000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.703",
     "updated_at": "2023-07-24T12:33:55.703",
     "episode_num": 2,
@@ -368,10 +292,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xWJ1C.jpg",
     "duration": 3000000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.716",
     "updated_at": "2023-07-24T12:33:55.716",
     "episode_num": 3,
@@ -387,10 +307,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xWoWe.jpg",
     "duration": 3180000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.729",
     "updated_at": "2023-07-24T12:33:55.729",
     "episode_num": 4,
@@ -406,10 +322,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xW8uS.jpg",
     "duration": 3180000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.741",
     "updated_at": "2023-07-24T12:33:55.741",
     "episode_num": 5,
@@ -425,10 +337,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xWgmH.jpg",
     "duration": 3600000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.755",
     "updated_at": "2023-07-24T12:33:55.755",
     "episode_num": 6,
@@ -444,10 +352,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xWXri.jpg",
     "duration": 3360000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.767",
     "updated_at": "2023-07-24T12:33:55.767",
     "episode_num": 7,
@@ -463,10 +367,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xWHi2.jpg",
     "duration": 4680000,
     "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T12:33:55.778",
     "updated_at": "2023-07-24T12:33:55.778",
     "episode_num": 8,
@@ -481,10 +381,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdcqK.jpg",
     "duration": 4680000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.313",
     "updated_at": "2023-07-24T14:53:51.313",
     "episode_num": 1,
@@ -499,10 +395,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdMrV.jpg",
     "duration": 4680000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.348",
     "updated_at": "2023-07-24T14:53:51.349",
     "episode_num": 2,
@@ -518,10 +410,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xd4uo.jpg",
     "duration": 3900000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.362",
     "updated_at": "2023-07-24T14:53:51.362",
     "episode_num": 3,
@@ -537,10 +425,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdC1O.jpg",
     "duration": 4740000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.379",
     "updated_at": "2023-07-24T14:53:51.379",
     "episode_num": 4,
@@ -556,10 +440,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdIdn.jpg",
     "duration": 4620000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.393",
     "updated_at": "2023-07-24T14:53:51.393",
     "episode_num": 5,
@@ -575,10 +455,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdQhg.jpg",
     "duration": 4500000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.408",
     "updated_at": "2023-07-24T14:53:51.408",
     "episode_num": 6,
@@ -594,10 +470,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdiPv.jpg",
     "duration": 6060000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.421",
     "updated_at": "2023-07-24T14:53:51.421",
     "episode_num": 7,
@@ -613,10 +485,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdk9N.jpg",
     "duration": 5220000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.435",
     "updated_at": "2023-07-24T14:53:51.435",
     "episode_num": 8,
@@ -632,10 +500,6 @@
     "thumbnail": "https://s6.imgcdn.dev/xdn8q.jpg",
     "duration": 8520000,
     "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
-    "languages": [
-      "en-US",
-      "pt-BR"
-    ],
     "created_at": "2023-07-24T14:53:51.451",
     "updated_at": "2023-07-24T14:53:51.451",
     "episode_num": 9,
