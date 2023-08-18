@@ -1,0 +1,508 @@
+[
+  {
+    "uuid": "f126518a-5c5c-4a7c-8aa4-213af872c3af",
+    "href": "/api/v1/episodes/f126518a-5c5c-4a7c-8aa4-213af872c3af",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtGV9.jpg",
+    "duration": 2940000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.814",
+    "updated_at": "2023-07-23T20:19:29.814",
+    "episode_num": 1,
+    "prev_episode": null,
+    "next_episode": "/api/v1/episodes/b071f3f8-9647-40db-963d-d39c7cd00d68"
+  },
+  {
+    "uuid": "b071f3f8-9647-40db-963d-d39c7cd00d68",
+    "href": "/api/v1/episodes/b071f3f8-9647-40db-963d-d39c7cd00d68",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xt9bC.jpg",
+    "duration": 3360000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.836",
+    "updated_at": "2023-07-23T20:19:29.836",
+    "episode_num": 2,
+    "next_episode": "/api/v1/episodes/7fb645dd-fbe8-421a-aead-0c88eaf26267",
+    "prev_episode": "/api/v1/episodes/f126518a-5c5c-4a7c-8aa4-213af872c3af"
+  },
+  {
+    "uuid": "7fb645dd-fbe8-421a-aead-0c88eaf26267",
+    "href": "/api/v1/episodes/7fb645dd-fbe8-421a-aead-0c88eaf26267",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtZBS.jpg",
+    "duration": 3180000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.853",
+    "updated_at": "2023-07-23T20:19:29.853",
+    "episode_num": 3,
+    "next_episode": "/api/v1/episodes/2116ac31-d9dd-48cf-b14f-12181cf52078",
+    "prev_episode": "/api/v1/episodes/b071f3f8-9647-40db-963d-d39c7cd00d68"
+  },
+  {
+    "uuid": "2116ac31-d9dd-48cf-b14f-12181cf52078",
+    "href": "/api/v1/episodes/2116ac31-d9dd-48cf-b14f-12181cf52078",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtOIH.jpg",
+    "duration": 3060000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.869",
+    "updated_at": "2023-07-23T20:19:29.869",
+    "episode_num": 4,
+    "next_episode": "/api/v1/episodes/c38bf2e4-3750-4a45-a190-7e6fe7f29bac",
+    "prev_episode": "/api/v1/episodes/7fb645dd-fbe8-421a-aead-0c88eaf26267"
+  },
+  {
+    "uuid": "c38bf2e4-3750-4a45-a190-7e6fe7f29bac",
+    "href": "/api/v1/episodes/c38bf2e4-3750-4a45-a190-7e6fe7f29bac",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtx22.jpg",
+    "duration": 3240000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.881",
+    "updated_at": "2023-07-23T20:19:29.881",
+    "episode_num": 5,
+    "next_episode": "/api/v1/episodes/b664d023-2f2e-4d11-8af7-00d21bd565dd",
+    "prev_episode": "/api/v1/episodes/2116ac31-d9dd-48cf-b14f-12181cf52078"
+  },
+  {
+    "uuid": "b664d023-2f2e-4d11-8af7-00d21bd565dd",
+    "href": "/api/v1/episodes/b664d023-2f2e-4d11-8af7-00d21bd565dd",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xt2Xi.jpg",
+    "duration": 2880000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.893",
+    "updated_at": "2023-07-23T20:19:29.893",
+    "episode_num": 6,
+    "next_episode": "/api/v1/episodes/bce28964-fcfa-4a8c-9df0-413d4648d661",
+    "prev_episode": "/api/v1/episodes/c38bf2e4-3750-4a45-a190-7e6fe7f29bac"
+  },
+  {
+    "uuid": "bce28964-fcfa-4a8c-9df0-413d4648d661",
+    "href": "/api/v1/episodes/bce28964-fcfa-4a8c-9df0-413d4648d661",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtSpy.jpg",
+    "duration": 2580000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.908",
+    "updated_at": "2023-07-23T20:19:29.908",
+    "episode_num": 7,
+    "next_episode": "/api/v1/episodes/cf90565d-c906-4e2c-a992-b190b5d117f8",
+    "prev_episode": "/api/v1/episodes/b664d023-2f2e-4d11-8af7-00d21bd565dd"
+  },
+  {
+    "uuid": "cf90565d-c906-4e2c-a992-b190b5d117f8",
+    "href": "/api/v1/episodes/cf90565d-c906-4e2c-a992-b190b5d117f8",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtvs8.jpg",
+    "duration": 3360000,
+    "season": "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+    "created_at": "2023-07-23T20:19:29.924",
+    "updated_at": "2023-07-23T20:19:29.924",
+    "episode_num": 8,
+    "next_episode": null,
+    "prev_episode": "/api/v1/episodes/bce28964-fcfa-4a8c-9df0-413d4648d661"
+  },
+  {
+    "uuid": "912642ab-97cf-417f-b051-d927ad4c41c5",
+    "href": "/api/v1/episodes/912642ab-97cf-417f-b051-d927ad4c41c5",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtFbO.jpg",
+    "duration": 2940000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:18.936",
+    "updated_at": "2023-07-23T22:21:18.936",
+    "episode_num": 1,
+    "next_episode": "/api/v1/episodes/f0091d20-a9a3-4f57-b191-e26999b24b24",
+    "prev_episode": null
+  },
+  {
+    "uuid": "f0091d20-a9a3-4f57-b191-e26999b24b24",
+    "href": "/api/v1/episodes/f0091d20-a9a3-4f57-b191-e26999b24b24",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtqBo.jpg",
+    "duration": 3420000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:18.96",
+    "updated_at": "2023-07-23T22:21:18.96",
+    "episode_num": 2,
+    "next_episode": "/api/v1/episodes/73b516eb-d67c-4a2f-a3ac-a0d769c004e1",
+    "prev_episode": "/api/v1/episodes/912642ab-97cf-417f-b051-d927ad4c41c5"
+  },
+  {
+    "uuid": "73b516eb-d67c-4a2f-a3ac-a0d769c004e1",
+    "href": "/api/v1/episodes/73b516eb-d67c-4a2f-a3ac-a0d769c004e1",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtmNK.jpg",
+    "duration": 3120000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:18.976",
+    "updated_at": "2023-07-23T22:21:18.976",
+    "episode_num": 3,
+    "next_episode": "/api/v1/episodes/a89d6d6d-78a8-4013-bcfe-73ba4114e5ff",
+    "prev_episode": "/api/v1/episodes/f0091d20-a9a3-4f57-b191-e26999b24b24"
+  },
+  {
+    "uuid": "a89d6d6d-78a8-4013-bcfe-73ba4114e5ff",
+    "href": "/api/v1/episodes/a89d6d6d-78a8-4013-bcfe-73ba4114e5ff",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtbXV.jpg",
+    "duration": 2820000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:18.991",
+    "updated_at": "2023-07-23T22:21:18.991",
+    "episode_num": 4,
+    "next_episode": "/api/v1/episodes/66fd9fa2-b322-4406-a918-77e0fb86e3cd",
+    "prev_episode": "/api/v1/episodes/73b516eb-d67c-4a2f-a3ac-a0d769c004e1"
+  },
+  {
+    "uuid": "66fd9fa2-b322-4406-a918-77e0fb86e3cd",
+    "href": "/api/v1/episodes/66fd9fa2-b322-4406-a918-77e0fb86e3cd",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtLAh.jpg",
+    "duration": 3540000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:19.008",
+    "updated_at": "2023-07-23T22:21:19.008",
+    "episode_num": 5,
+    "next_episode": "/api/v1/episodes/d2c2c1bd-ce10-4d2c-9ff6-2ce8c33b299f",
+    "prev_episode": "/api/v1/episodes/66fd9fa2-b322-4406-a918-77e0fb86e3cd"
+  },
+  {
+    "uuid": "d2c2c1bd-ce10-4d2c-9ff6-2ce8c33b299f",
+    "href": "/api/v1/episodes/d2c2c1bd-ce10-4d2c-9ff6-2ce8c33b299f",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xt3yl.jpg",
+    "duration": 3180000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:19.023",
+    "updated_at": "2023-07-23T22:21:19.023",
+    "episode_num": 6,
+    "next_episode": "/api/v1/episodes/c514864b-ee2c-4aaa-af9f-3d1130819b3b",
+    "prev_episode": "/api/v1/episodes/"
+  },
+  {
+    "uuid": "c514864b-ee2c-4aaa-af9f-3d1130819b3b",
+    "href": "/api/v1/episodes/c514864b-ee2c-4aaa-af9f-3d1130819b3b",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtWpd.jpg",
+    "duration": 2760000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:19.037",
+    "updated_at": "2023-07-23T22:21:19.037",
+    "episode_num": 7,
+    "next_episode": "/api/v1/episodes/92e24b6f-4f15-44c1-8580-898b2ae66ab6",
+    "prev_episode": "/api/v1/episodes/d2c2c1bd-ce10-4d2c-9ff6-2ce8c33b299f"
+  },
+  {
+    "uuid": "92e24b6f-4f15-44c1-8580-898b2ae66ab6",
+    "href": "/api/v1/episodes/92e24b6f-4f15-44c1-8580-898b2ae66ab6",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xtfl0.jpg",
+    "duration": 2940000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:19.053",
+    "updated_at": "2023-07-23T22:21:19.053",
+    "episode_num": 8,
+    "next_episode": "/api/v1/episodes/01475e9f-cabd-4378-9a4e-85439b4c8d65",
+    "prev_episode": "/api/v1/episodes/c514864b-ee2c-4aaa-af9f-3d1130819b3b"
+  },
+  {
+    "uuid": "01475e9f-cabd-4378-9a4e-85439b4c8d65",
+    "href": "/api/v1/episodes/01475e9f-cabd-4378-9a4e-85439b4c8d65",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xttfM.jpg",
+    "duration": 3780000,
+    "season": "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+    "created_at": "2023-07-23T22:21:19.07",
+    "updated_at": "2023-07-23T22:21:19.07",
+    "episode_num": 9,
+    "next_episode": null,
+    "prev_episode": "/api/v1/episodes/92e24b6f-4f15-44c1-8580-898b2ae66ab6"
+  },
+  {
+    "uuid": "9c7cea5c-5885-4ec3-929d-2528e721324c",
+    "href": "/api/v1/episodes/9c7cea5c-5885-4ec3-929d-2528e721324c",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdYPM.jpg",
+    "duration": 3060000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.681",
+    "updated_at": "2023-07-24T12:33:55.681",
+    "episode_num": 1,
+    "next_episode": "/api/v1/episodes/614bc069-ee39-4afb-a111-5d640a4de035"
+  },
+  {
+    "uuid": "614bc069-ee39-4afb-a111-5d640a4de035",
+    "href": "/api/v1/episodes/614bc069-ee39-4afb-a111-5d640a4de035",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdDh0.jpg",
+    "duration": 3060000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.703",
+    "updated_at": "2023-07-24T12:33:55.703",
+    "episode_num": 2,
+    "next_episode": "/api/v1/episodes/c8f9a0fe-b3b0-444d-bc53-04a00b0f1060",
+    "prev_episode": "/api/v1/episodes/9c7cea5c-5885-4ec3-929d-2528e721324c"
+  },
+  {
+    "uuid": "c8f9a0fe-b3b0-444d-bc53-04a00b0f1060",
+    "href": "/api/v1/episodes/c8f9a0fe-b3b0-444d-bc53-04a00b0f1060",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xWJ1C.jpg",
+    "duration": 3000000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.716",
+    "updated_at": "2023-07-24T12:33:55.716",
+    "episode_num": 3,
+    "next_episode": "/api/v1/episodes/eb673666-c1b8-4807-9daa-46b35bfca26b",
+    "prev_episode": "/api/v1/episodes/614bc069-ee39-4afb-a111-5d640a4de035"
+  },
+  {
+    "uuid": "eb673666-c1b8-4807-9daa-46b35bfca26b",
+    "href": "/api/v1/episodes/eb673666-c1b8-4807-9daa-46b35bfca26b",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xWoWe.jpg",
+    "duration": 3180000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.729",
+    "updated_at": "2023-07-24T12:33:55.729",
+    "episode_num": 4,
+    "next_episode": "/api/v1/episodes/e2aa4694-787a-4f8c-bd5c-316c29b86d9e",
+    "prev_episode": "/api/v1/episodes/c8f9a0fe-b3b0-444d-bc53-04a00b0f1060"
+  },
+  {
+    "uuid": "e2aa4694-787a-4f8c-bd5c-316c29b86d9e",
+    "href": "/api/v1/episodes/e2aa4694-787a-4f8c-bd5c-316c29b86d9e",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xW8uS.jpg",
+    "duration": 3180000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.741",
+    "updated_at": "2023-07-24T12:33:55.741",
+    "episode_num": 5,
+    "next_episode": "/api/v1/episodes/75de502b-7cef-4c74-9e45-eae4f419f7fa",
+    "prev_episode": "/api/v1/episodes/eb673666-c1b8-4807-9daa-46b35bfca26b"
+  },
+  {
+    "uuid": "75de502b-7cef-4c74-9e45-eae4f419f7fa",
+    "href": "/api/v1/episodes/75de502b-7cef-4c74-9e45-eae4f419f7fa",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xWgmH.jpg",
+    "duration": 3600000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.755",
+    "updated_at": "2023-07-24T12:33:55.755",
+    "episode_num": 6,
+    "next_episode": "/api/v1/episodes/a07af8a9-0873-4f6c-9cfa-8eafc8705fb2",
+    "prev_episode": "/api/v1/episodes/75de502b-7cef-4c74-9e45-eae4f419f7fa"
+  },
+  {
+    "uuid": "a07af8a9-0873-4f6c-9cfa-8eafc8705fb2",
+    "href": "/api/v1/episodes/a07af8a9-0873-4f6c-9cfa-8eafc8705fb2",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xWXri.jpg",
+    "duration": 3360000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.767",
+    "updated_at": "2023-07-24T12:33:55.767",
+    "episode_num": 7,
+    "next_episode": "/api/v1/episodes/a4ed46c8-47b7-40fc-b1d9-cacc629e93da",
+    "prev_episode": "/api/v1/episodes/a07af8a9-0873-4f6c-9cfa-8eafc8705fb2"
+  },
+  {
+    "uuid": "a4ed46c8-47b7-40fc-b1d9-cacc629e93da",
+    "href": "/api/v1/episodes/a4ed46c8-47b7-40fc-b1d9-cacc629e93da",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xWHi2.jpg",
+    "duration": 4680000,
+    "season": "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+    "created_at": "2023-07-24T12:33:55.778",
+    "updated_at": "2023-07-24T12:33:55.778",
+    "episode_num": 8,
+    "prev_episode": "/api/v1/episodes/a07af8a9-0873-4f6c-9cfa-8eafc8705fb2"
+  },
+  {
+    "uuid": "88cd5665-bfb6-4176-9040-9194573eeac8",
+    "href": "/api/v1/episodes/88cd5665-bfb6-4176-9040-9194573eeac8",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdcqK.jpg",
+    "duration": 4680000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.313",
+    "updated_at": "2023-07-24T14:53:51.313",
+    "episode_num": 1,
+    "next_episode": "/api/v1/episodes/3fabbaa2-d763-4e0e-83b7-bea55b28adad"
+  },
+  {
+    "uuid": "3fabbaa2-d763-4e0e-83b7-bea55b28adad",
+    "href": "/api/v1/episodes/3fabbaa2-d763-4e0e-83b7-bea55b28adad",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdMrV.jpg",
+    "duration": 4680000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.348",
+    "updated_at": "2023-07-24T14:53:51.349",
+    "episode_num": 2,
+    "next_episode": "/api/v1/episodes/c19ae791-02b4-4861-85a8-94fbba1f24ba",
+    "prev_episode": "/api/v1/episodes/88cd5665-bfb6-4176-9040-9194573eeac8"
+  },
+  {
+    "uuid": "c19ae791-02b4-4861-85a8-94fbba1f24ba",
+    "href": "/api/v1/episodes/c19ae791-02b4-4861-85a8-94fbba1f24ba",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xd4uo.jpg",
+    "duration": 3900000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.362",
+    "updated_at": "2023-07-24T14:53:51.362",
+    "episode_num": 3,
+    "next_episode": "/api/v1/episodes/7261b8fb-d478-4d71-8787-08767d44197e",
+    "prev_episode": "/api/v1/episodes/3fabbaa2-d763-4e0e-83b7-bea55b28adad"
+  },
+  {
+    "uuid": "7261b8fb-d478-4d71-8787-08767d44197e",
+    "href": "/api/v1/episodes/7261b8fb-d478-4d71-8787-08767d44197e",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdC1O.jpg",
+    "duration": 4740000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.379",
+    "updated_at": "2023-07-24T14:53:51.379",
+    "episode_num": 4,
+    "next_episode": "/api/v1/episodes/07a4fe52-d9cb-476e-b981-a1a05f5ef81c",
+    "prev_episode": "/api/v1/episodes/c19ae791-02b4-4861-85a8-94fbba1f24ba"
+  },
+  {
+    "uuid": "07a4fe52-d9cb-476e-b981-a1a05f5ef81c",
+    "href": "/api/v1/episodes/07a4fe52-d9cb-476e-b981-a1a05f5ef81c",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdIdn.jpg",
+    "duration": 4620000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.393",
+    "updated_at": "2023-07-24T14:53:51.393",
+    "episode_num": 5,
+    "next_episode": "/api/v1/episodes/ffd88734-834a-4cb4-b620-4f9fe97aea31",
+    "prev_episode": "/api/v1/episodes/7261b8fb-d478-4d71-8787-08767d44197e"
+  },
+  {
+    "uuid": "ffd88734-834a-4cb4-b620-4f9fe97aea31",
+    "href": "/api/v1/episodes/ffd88734-834a-4cb4-b620-4f9fe97aea31",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdQhg.jpg",
+    "duration": 4500000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.408",
+    "updated_at": "2023-07-24T14:53:51.408",
+    "episode_num": 6,
+    "next_episode": "/api/v1/episodes/6adf4b0e-134e-466d-9c62-763b339da1a4",
+    "prev_episode": "/api/v1/episodes/07a4fe52-d9cb-476e-b981-a1a05f5ef81c"
+  },
+  {
+    "uuid": "6adf4b0e-134e-466d-9c62-763b339da1a4",
+    "href": "/api/v1/episodes/6adf4b0e-134e-466d-9c62-763b339da1a4",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdiPv.jpg",
+    "duration": 6060000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.421",
+    "updated_at": "2023-07-24T14:53:51.421",
+    "episode_num": 7,
+    "next_episode": "/api/v1/episodes/922abde7-eff1-4cf5-b643-37ed1aad6be5",
+    "prev_episode": "/api/v1/episodes/ffd88734-834a-4cb4-b620-4f9fe97aea31"
+  },
+  {
+    "uuid": "922abde7-eff1-4cf5-b643-37ed1aad6be5",
+    "href": "/api/v1/episodes/922abde7-eff1-4cf5-b643-37ed1aad6be5",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdk9N.jpg",
+    "duration": 5220000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.435",
+    "updated_at": "2023-07-24T14:53:51.435",
+    "episode_num": 8,
+    "prev_episode": "/api/v1/episodes/6adf4b0e-134e-466d-9c62-763b339da1a4",
+    "next_episode": "/api/v1/episodes/04984f61-7c04-4cec-8fc7-bc0786df8d4c"
+  },
+  {
+    "uuid": "04984f61-7c04-4cec-8fc7-bc0786df8d4c",
+    "href": "/api/v1/episodes/04984f61-7c04-4cec-8fc7-bc0786df8d4c",
+    "sources": [
+      "https://www.netflix.com/title/80057281"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xdn8q.jpg",
+    "duration": 8520000,
+    "season": "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c",
+    "created_at": "2023-07-24T14:53:51.451",
+    "updated_at": "2023-07-24T14:53:51.451",
+    "episode_num": 9,
+    "prev_episode": "/api/v1/episodes/922abde7-eff1-4cf5-b643-37ed1aad6be5"
+  }
+]

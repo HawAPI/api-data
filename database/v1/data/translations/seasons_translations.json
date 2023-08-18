@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Stranger Things",
+    "description": "Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.",
+    "language": "en-US",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Mystery thriller"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+      "https://www.youtube.com/watch?v=0AlophlrXQQ"
+    ],
+    "season_uuid": "3b980ad3-aef8-4663-a7a9-64cb4979500a"
+  },
+  {
+    "title": "Stranger Things 2",
+    "description": "It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close.",
+    "language": "en-US",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Mystery thriller"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=R1ZXOOLMJ8s",
+      "https://www.youtube.com/watch?v=bGeL_8LGaDw"
+    ],
+    "season_uuid": "1ff70278-fe7c-4619-9e37-91820eaa37b9"
+  },
+  {
+    "title": "Stranger Things 3",
+    "description": "Budding romance. A brand-new mall. And rabid rats running toward danger. It's the summer of 1985 in Hawkins ... and one summer can change everything.",
+    "language": "en-US",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Mystery thriller"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=ut_aTGcCVYg",
+      "https://www.youtube.com/watch?v=Ml8JuxprNv4"
+    ],
+    "season_uuid": "b956e444-8489-4bf9-9dd0-fb6b7683638a"
+  },
+  {
+    "title": "Stranger Things 4",
+    "description": "Darkness returns to Hawkins just in time for spring break, igniting fresh terror, disturbing memories — and an ominous new threat.",
+    "language": "en-US",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Mystery thriller"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=a3thyAnShck",
+      "https://www.youtube.com/watch?v=mVsJXiI60a0",
+      "https://www.youtube.com/watch?v=sBEvEcpnG7k"
+    ],
+    "season_uuid": "4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+  },
+  {
+    "title": "Stranger Things",
+    "description": "A pequena cidade de Hawkins é cenário de estranhos acontecimentos. Após o desaparecimento de um garoto, surge uma menina com poderes sobrenaturais.",
+    "language": "pt-BR",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Suspense",
+      "Mistério"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=fLL0_Vy2Wlo",
+      "https://www.youtube.com/watch?v=1bNfirrsbsc"
+    ],
+    "season_uuid": "3b980ad3-aef8-4663-a7a9-64cb4979500a"
+  },
+  {
+    "title": "Stranger Things 2",
+    "description": "Quase um ano após o estranho desaparecimento de Will, a vida em Hawkins está longe de voltar ao normal.",
+    "language": "pt-BR",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Suspense",
+      "Mistério"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=BZboFsUPuG4",
+      "https://www.youtube.com/watch?v=onu2R5YbYQc"
+    ],
+    "season_uuid": "1ff70278-fe7c-4619-9e37-91820eaa37b9"
+  },
+  {
+    "title": "Stranger Things 3",
+    "description": "Romance no ar. Um shopping novinho em folha. Ratazanas enlouquecidas correndo para o perigo. É o verão de 1985 em Hawkins. E um verão pode mudar tudo.",
+    "language": "pt-BR",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Suspense",
+      "Mistério"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=UBKVzLbxKKc",
+      "https://www.youtube.com/watch?v=cueXB927SM8"
+    ],
+    "season_uuid": "b956e444-8489-4bf9-9dd0-fb6b7683638a"
+  },
+  {
+    "title": "Stranger Things 4",
+    "description": "As trevas retornam a Hawkins a tempo das férias, trazendo terror, lembranças perturbadoras e uma nova ameaça terrível.",
+    "language": "pt-BR",
+    "genres": [
+      "Drama",
+      "Sci fi",
+      "Horror",
+      "Suspense",
+      "Mistério"
+    ],
+    "trailers": [
+      "https://www.youtube.com/watch?v=b6XKRA2DFQI",
+      "https://www.youtube.com/watch?v=otutSrxYpa4",
+      "https://www.youtube.com/watch?v=VBGOOup8lDY"
+    ],
+    "season_uuid": "4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+  }
+]

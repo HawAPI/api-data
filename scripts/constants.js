@@ -23,7 +23,13 @@ export const TOKEN = process.env.TOKEN;
  *
  * All translations will be saved on 'data/translations/\<target\>_translations.json'
  */
-export const TRANSLATION_TABLES = ["episodes", "games", "locations", "seasons"];
+export const TRANSLATION_TABLES = [
+  "episodes",
+  "games",
+  "locations",
+  "seasons",
+  "overview",
+];
 
 /**
  * List of fields that has translation on {@link TRANSLATION_TABLES}.

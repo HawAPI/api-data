@@ -1,0 +1,410 @@
+[
+  {
+    "title": "The Vanishing of Will Byers",
+    "description": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.",
+    "language": "en-US",
+    "episode_uuid": "f126518a-5c5c-4a7c-8aa4-213af872c3af"
+  },
+  {
+    "title": "The Weirdo on Maple Street",
+    "description": "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
+    "language": "en-US",
+    "episode_uuid": "b071f3f8-9647-40db-963d-d39c7cd00d68"
+  },
+  {
+    "title": "Holly, Jolly",
+    "description": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
+    "language": "en-US",
+    "episode_uuid": "7fb645dd-fbe8-421a-aead-0c88eaf26267"
+  },
+  {
+    "title": "The Body",
+    "description": "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover. Nancy and Jonathan form an unlikely alliance.",
+    "language": "en-US",
+    "episode_uuid": "2116ac31-d9dd-48cf-b14f-12181cf52078"
+  },
+  {
+    "title": "The Flea and the Acrobat",
+    "description": "Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.",
+    "language": "en-US",
+    "episode_uuid": "c38bf2e4-3750-4a45-a190-7e6fe7f29bac"
+  },
+  {
+    "title": "The Monster",
+    "description": "A frantic Jonathan looks for Nancy in the darkness, but Steve's looking for her, too. Hopper and Joyce uncover the truth about the lab's experiments.",
+    "language": "en-US",
+    "episode_uuid": "b664d023-2f2e-4d11-8af7-00d21bd565dd"
+  },
+  {
+    "title": "The Bathtub",
+    "description": "Eleven struggles to reach Will, while Lucas warns that \"the bad men are coming.\" Nancy and Jonathan show the police what Jonathan caught on camera.",
+    "language": "en-US",
+    "episode_uuid": "bce28964-fcfa-4a8c-9df0-413d4648d661"
+  },
+  {
+    "title": "The Upside Down",
+    "description": "Dr. Brenner holds Hopper and Joyce for questioning while the boys wait with Eleven in the gym. Back at Will's, Nancy and Jonathan prepare for battle.",
+    "language": "en-US",
+    "episode_uuid": "cf90565d-c906-4e2c-a992-b190b5d117f8"
+  },
+  {
+    "title": "O desaparecimento de Will Byers",
+    "description": "No caminho de volta para casa, Will é aterrorizado por alguma coisa. Não longe dali, um laboratório secreto guarda um segredo sinistro.",
+    "language": "pt-BR",
+    "episode_uuid": "f126518a-5c5c-4a7c-8aa4-213af872c3af"
+  },
+  {
+    "title": "A estranha da Maple Street",
+    "description": "Lucas, Mike e Dustin tentam conversar com a menina que encontram. Hopper tem perguntas para uma Joyce extremamente ansiosa.",
+    "language": "pt-BR",
+    "episode_uuid": "b071f3f8-9647-40db-963d-d39c7cd00d68"
+  },
+  {
+    "title": "Caramba",
+    "description": "Cada vez mais preocupada, Nancy procura Barb e acaba descobrindo o que Jonathan anda fazendo. Joyce está convencida de que Will está tentando se comunicar com ela.",
+    "language": "pt-BR",
+    "episode_uuid": "7fb645dd-fbe8-421a-aead-0c88eaf26267"
+  },
+  {
+    "title": "O corpo",
+    "description": "Joyce se recusa a acreditar de Will morreu, e tenta se comunicar com ele. Os meninos transformam o visual de Onze. Nancy e Jonathan acabam se unindo.",
+    "language": "pt-BR",
+    "episode_uuid": "2116ac31-d9dd-48cf-b14f-12181cf52078"
+  },
+  {
+    "title": "A pulga e o acrobata",
+    "description": "Hopper consegue entrar no laboratório enquanto Nancy e Jonathan confrontam as forças que levaram Will. Os meninos perguntam ao Sr. Clarke como se vai para outra dimensão.",
+    "language": "pt-BR",
+    "episode_uuid": "c38bf2e4-3750-4a45-a190-7e6fe7f29bac"
+  },
+  {
+    "title": "O monstro",
+    "description": "Desesperado, Jonathan procura por Nancy na escuridão, mas Steve faz a mesma coisa. Hopper e Joyce descobrem a verdade sobre os experimentos conduzidos no laboratório.",
+    "language": "pt-BR",
+    "episode_uuid": "b664d023-2f2e-4d11-8af7-00d21bd565dd"
+  },
+  {
+    "title": "A banheira",
+    "description": "Onze tenta chegar a Will, mas Lucas dá o alerta de perigo. Nancy e Jonathan mostram à polícia as imagens capturadas pela câmera.",
+    "language": "pt-BR",
+    "episode_uuid": "bce28964-fcfa-4a8c-9df0-413d4648d661"
+  },
+  {
+    "title": "De ponta-cabeça",
+    "description": "O Dr. Brenner interroga Hopper e Joyce enquanto os meninos e Onze esperam no ginásio. Nancy e Jonathan se preparam para uma nova batalha.",
+    "language": "pt-BR",
+    "episode_uuid": "cf90565d-c906-4e2c-a992-b190b5d117f8"
+  },
+  {
+    "title": "MADMAX",
+    "description": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+    "language": "en-US",
+    "episode_uuid": "912642ab-97cf-417f-b051-d927ad4c41c5"
+  },
+  {
+    "title": "Trick or Treat, Freak",
+    "description": "After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb.",
+    "language": "en-US",
+    "episode_uuid": "f0091d20-a9a3-4f57-b191-e26999b24b24"
+  },
+  {
+    "title": "The Pollywog",
+    "description": "Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears.",
+    "language": "en-US",
+    "episode_uuid": "73b516eb-d67c-4a2f-a3ac-a0d769c004e1"
+  },
+  {
+    "title": "Will the Wise",
+    "description": "An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery.",
+    "language": "en-US",
+    "episode_uuid": "a89d6d6d-78a8-4013-bcfe-73ba4114e5ff"
+  },
+  {
+    "title": "Dig Dug",
+    "description": "Nancy and Jonathan swap conspiracy theories with a new ally as Eleven searches for someone from her past. “Bob the Brain” tackles a difficult problem.",
+    "language": "en-US",
+    "episode_uuid": "66fd9fa2-b322-4406-a918-77e0fb86e3cd"
+  },
+  {
+    "title": "The Spy",
+    "description": "Will's connection to a shadowy evil grows stronger, but no one's quite sure how to stop it. Elsewhere, Dustin and Steve forge an unlikely bond.",
+    "language": "en-US",
+    "episode_uuid": "d2c2c1bd-ce10-4d2c-9ff6-2ce8c33b299f"
+  },
+  {
+    "title": "The Lost Sister",
+    "description": "Psychic visions draw Eleven to a band of violent outcasts and an angry girl with a shadowy past.",
+    "language": "en-US",
+    "episode_uuid": "c514864b-ee2c-4aaa-af9f-3d1130819b3b"
+  },
+  {
+    "title": "The Mind Flayer",
+    "description": "An unlikely hero steps forward when a deadly development puts the Hawkins Lab on lockdown, trapping Will and several others inside.",
+    "language": "en-US",
+    "episode_uuid": "92e24b6f-4f15-44c1-8580-898b2ae66ab6"
+  },
+  {
+    "title": "The Gate",
+    "description": "Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.",
+    "language": "en-US",
+    "episode_uuid": "01475e9f-cabd-4378-9a4e-85439b4c8d65"
+  },
+  {
+    "title": "Mad Max",
+    "description": "Na véspera do Halloween, um rival bagunça as coisas no fliperama. Cético, Hopper inspeciona uma plantação de abóboras apodrecidas.",
+    "language": "pt-BR",
+    "episode_uuid": "912642ab-97cf-417f-b051-d927ad4c41c5"
+  },
+  {
+    "title": "Gostosura ou travessura, aberração",
+    "description": "Depois que Will vê algo terrível na noite das gostosuras ou travessuras, Mike se pergunta se Onze ainda está por perto. Nancy enfrenta a verdade sobre a morte de Barb.",
+    "language": "pt-BR",
+    "episode_uuid": "f0091d20-a9a3-4f57-b191-e26999b24b24"
+  },
+  {
+    "title": "O girino",
+    "description": "Dustin adota um animal de estimação estranho, e Onze fica cada vez mais impaciente. Bem-intencionado, Bob incentiva Will a encarar os seus medos.",
+    "language": "pt-BR",
+    "episode_uuid": "73b516eb-d67c-4a2f-a3ac-a0d769c004e1"
+  },
+  {
+    "title": "Will, o sábio",
+    "description": "Debilitado, Will se abre com Joice, e o resultado é perturbador. Enquanto Hopper busca a verdade, Onze faz uma descoberta surpreendente.",
+    "language": "pt-BR",
+    "episode_uuid": "a89d6d6d-78a8-4013-bcfe-73ba4114e5ff"
+  },
+  {
+    "title": "Dig Dug",
+    "description": "Nancy e Jonathan trocam teorias conspiratórias com um novo aliado, e Onze procura alguém do seu passado. “Bob Sabichão” lida com um problema complicado.",
+    "language": "pt-BR",
+    "episode_uuid": "66fd9fa2-b322-4406-a918-77e0fb86e3cd"
+  },
+  {
+    "title": "O espião",
+    "description": "A ligação entre Will e uma sinistra força do mal fica mais forte, mas ninguém sabe ao certo como detê-la. Dustin e Steve criam um vínculo improvável.",
+    "language": "pt-BR",
+    "episode_uuid": "d2c2c1bd-ce10-4d2c-9ff6-2ce8c33b299f"
+  },
+  {
+    "title": "A irmã perdida",
+    "description": "Visitantes psíquicos arrastam Onze na direção de um grupo de marginalizados violentos e de uma garota irritada com um passado sombrio.",
+    "language": "pt-BR",
+    "episode_uuid": "c514864b-ee2c-4aaa-af9f-3d1130819b3b"
+  },
+  {
+    "title": "O Devorador de Mentes",
+    "description": "Um herói improvável surge quando um incidente mortal provoca o fechamento do Laboratório de Hawkins, deixando Will e vários outros presos lá dentro.",
+    "language": "pt-BR",
+    "episode_uuid": "92e24b6f-4f15-44c1-8580-898b2ae66ab6"
+  },
+  {
+    "title": "O portal",
+    "description": "Onze planeja terminar o que começou. Os sobreviventes aumentam a pressão contra a força monstruosa que mantém Will refém.",
+    "language": "pt-BR",
+    "episode_uuid": "01475e9f-cabd-4378-9a4e-85439b4c8d65"
+  },
+  {
+    "title": "Suzie, Do You Copy?",
+    "description": "Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong.",
+    "language": "en-US",
+    "episode_uuid": "9c7cea5c-5885-4ec3-929d-2528e721324c"
+  },
+  {
+    "title": "The Mall Rats",
+    "description": "Nancy and Jonathan follow a lead, Steve and Robin sign on to a secret mission, and Max and Eleven go shopping. A rattled Billy has troubling visions.",
+    "language": "en-US",
+    "episode_uuid": "614bc069-ee39-4afb-a111-5d640a4de035"
+  },
+  {
+    "title": "The Case of the Missing Lifeguard",
+    "description": "With El and Max looking for Billy, Will declares a day without girls. Steve and Dustin go on a stakeout, and Joyce and Hopper return to Hawkins Lab.",
+    "language": "en-US",
+    "episode_uuid": "c8f9a0fe-b3b0-444d-bc53-04a00b0f1060"
+  },
+  {
+    "title": "The Sauna Test",
+    "description": "A code red brings the gang back together to face a frighteningly familiar evil. Karen urges Nancy to keep digging, and Robin finds a useful map.",
+    "language": "en-US",
+    "episode_uuid": "eb673666-c1b8-4807-9daa-46b35bfca26b"
+  },
+  {
+    "title": "The Flayed",
+    "description": "Strange surprises lurk inside an old farmhouse and deep beneath the Starcourt Mall. Meanwhile, the Mind Flayer is gathering strength.",
+    "language": "en-US",
+    "episode_uuid": "e2aa4694-787a-4f8c-bd5c-316c29b86d9e"
+  },
+  {
+    "title": "E Pluribus Unum",
+    "description": "Dr. Alexei reveals what the Russians have been building, and Eleven sees where Billy has been. Dustin and Erica stage a daring rescue.",
+    "language": "en-US",
+    "episode_uuid": "75de502b-7cef-4c74-9e45-eae4f419f7fa"
+  },
+  {
+    "title": "The Bite",
+    "description": "With time running out -- and an assassin close behind -- Hopper's crew races back to Hawkins, where El and the kids are preparing for war.",
+    "language": "en-US",
+    "episode_uuid": "a07af8a9-0873-4f6c-9cfa-8eafc8705fb2"
+  },
+  {
+    "title": "The Battle of Starcourt",
+    "description": "Terror reigns in the food court when the Mind Flayer comes to collect. But down below, in the dark, the future of the world is at stake.",
+    "language": "en-US",
+    "episode_uuid": "a4ed46c8-47b7-40fc-b1d9-cacc629e93da"
+  },
+  {
+    "title": "Está me ouvindo, Suzie?",
+    "description": "O verão é época de trabalhos temporários e novos namoros. Mas o clima muda quando Will percebe algo de errado na transmissão em russo captada pelo rádio de Dustin.",
+    "language": "pt-BR",
+    "episode_uuid": "9c7cea5c-5885-4ec3-929d-2528e721324c"
+  },
+  {
+    "title": "O caso dos ratos",
+    "description": "Nancy e Jonathan seguem uma pista. Steve e Robin participam de uma missão secreta, e Max e Onze vão às compras. Billy tem visões perturbadoras.",
+    "language": "pt-BR",
+    "episode_uuid": "614bc069-ee39-4afb-a111-5d640a4de035"
+  },
+  {
+    "title": "A salva-vidas desaparecida",
+    "description": "Onze e Max estão à procura de Billy. Will planeja um dia sem as garotas. Steve e Dustin ficam de tocaia, e Joyce e Hopper retornam ao Laboratório Nacional de Hawkins.",
+    "language": "pt-BR",
+    "episode_uuid": "c8f9a0fe-b3b0-444d-bc53-04a00b0f1060"
+  },
+  {
+    "title": "A prova da sauna",
+    "description": "A turma se reúne para enfrentar um mal terrivelmente familiar. Karen pede que Nancy continue a investigação. Robin consegue uma planta do shopping muito útil.",
+    "language": "pt-BR",
+    "episode_uuid": "eb673666-c1b8-4807-9daa-46b35bfca26b"
+  },
+  {
+    "title": "Os devorados",
+    "description": "Surpresas estranhas se escondem em uma antiga fazenda e nas profundezas do Starcourt Mall. O Devorador de Mentes fica mais forte.",
+    "language": "pt-BR",
+    "episode_uuid": "e2aa4694-787a-4f8c-bd5c-316c29b86d9e"
+  },
+  {
+    "title": "E pluribus unum",
+    "description": "Dr. Alexey revela o que os russos estão construindo, e Onze vê onde Billy esteve. Dustin e Erica planejam um resgate ousado.",
+    "language": "pt-BR",
+    "episode_uuid": "75de502b-7cef-4c74-9e45-eae4f419f7fa"
+  },
+  {
+    "title": "A mordida",
+    "description": "Com o tempo se esgotando e um assassino cada vez mais perto, a equipe de Hopper corre de volta a Hawkins. Lá, Onze e o resto da turma se preparam para a guerra.",
+    "language": "pt-BR",
+    "episode_uuid": "a07af8a9-0873-4f6c-9cfa-8eafc8705fb2"
+  },
+  {
+    "title": "A batalha de Starcourt",
+    "description": "O Devorador de Mentes causa terror na praça de alimentação. Lá embaixo, na escuridão, o futuro da humanidade está em jogo.",
+    "language": "pt-BR",
+    "episode_uuid": "a4ed46c8-47b7-40fc-b1d9-cacc629e93da"
+  },
+  {
+    "title": "The Hellfire Club",
+    "description": "El is bullied at school. Joyce opens a mysterious package. A scrappy player shakes up D&D night. Warning: Contains graphic violence involving children.",
+    "language": "en-US",
+    "episode_uuid": "88cd5665-bfb6-4176-9040-9194573eeac8"
+  },
+  {
+    "title": "Vecna's Curse",
+    "description": "A plane brings Mike to California — and a dead body brings Hawkins to a halt. Nancy goes looking for leads. A shaken Eddie tells the gang what he saw.",
+    "language": "en-US",
+    "episode_uuid": "3fabbaa2-d763-4e0e-83b7-bea55b28adad"
+  },
+  {
+    "title": "The Monster and the Superhero",
+    "description": "Murray and Joyce fly to Alaska, and El faces serious consequences. Robin and Nancy dig up dirt on Hawkins' demons. Dr. Owens delivers sobering news.",
+    "language": "en-US",
+    "episode_uuid": "c19ae791-02b4-4861-85a8-94fbba1f24ba"
+  },
+  {
+    "title": "Dear Billy",
+    "description": "Max is in grave danger... and running out of time. A patient at Pennhurst asylum has visitors. Elsewhere, in Russia, Hopper is hard at work.",
+    "language": "en-US",
+    "episode_uuid": "7261b8fb-d478-4d71-8787-08767d44197e"
+  },
+  {
+    "title": "The Nina Project",
+    "description": "Owens takes El to Nevada, where she's forced to confront her past, while the Hawkins kids comb a crumbling house for clues. Vecna claims another victim.",
+    "language": "en-US",
+    "episode_uuid": "07a4fe52-d9cb-476e-b981-a1a05f5ef81c"
+  },
+  {
+    "title": "The Dive",
+    "description": "Behind the Iron Curtain, a risky rescue mission gets underway. The California crew seeks help from a hacker. Steve takes one for the team.",
+    "language": "en-US",
+    "episode_uuid": "ffd88734-834a-4cb4-b620-4f9fe97aea31"
+  },
+  {
+    "title": "The Massacre at Hawkins Lab",
+    "description": "As Hopper braces to battle a monster, Dustin dissects Vecna's motives — and decodes a message from beyond. El finds strength in a distant memory.",
+    "language": "en-US",
+    "episode_uuid": "6adf4b0e-134e-466d-9c62-763b339da1a4"
+  },
+  {
+    "title": "Papa",
+    "description": "Nancy has sobering visions, and El passes an important test. Back in Hawkins, the gang gathers supplies and prepares for battle.",
+    "language": "en-US",
+    "episode_uuid": "922abde7-eff1-4cf5-b643-37ed1aad6be5"
+  },
+  {
+    "title": "The Piggyback",
+    "description": "With selfless hearts and a clash of metal, heroes fight from every corner of the battlefield to save Hawkins — and the world itself.",
+    "language": "en-US",
+    "episode_uuid": "04984f61-7c04-4cec-8fc7-bc0786df8d4c"
+  },
+  {
+    "title": "O Clube Hellfire",
+    "description": "Na nova escola, On precisa aprender a lidar com os valentões. Joyce abre um pacote misterioso. Em Hawkins, uma jogadora atrevida agita a noite de D&D.",
+    "language": "pt-BR",
+    "episode_uuid": "88cd5665-bfb6-4176-9040-9194573eeac8"
+  },
+  {
+    "title": "A maldição de Vecna",
+    "description": "Mike embarca em um avião rumo à Califórnia. Um corpo abala Hawkins. Nancy sai à procura de pistas. Abalado, Eddie conta aos amigos o que viu.",
+    "language": "pt-BR",
+    "episode_uuid": "3fabbaa2-d763-4e0e-83b7-bea55b28adad"
+  },
+  {
+    "title": "O monstro e a super-heroína",
+    "description": "Murray e Joyce viajam para o Alasca e On enfrenta duras consequências. Robin e Nancy fazem uma descoberta sobre os monstros de Hawkins. Dr. Owens traz más notícias.",
+    "language": "pt-BR",
+    "episode_uuid": "c19ae791-02b4-4861-85a8-94fbba1f24ba"
+  },
+  {
+    "title": "Querido Billy",
+    "description": "Max está em perigo e o tempo está se esgotando. Um paciente do hospital Pennhurst recebe visitas. Na Rússia, Hopper vai à luta.",
+    "language": "pt-BR",
+    "episode_uuid": "7261b8fb-d478-4d71-8787-08767d44197e"
+  },
+  {
+    "title": "Projeto Nina",
+    "description": "Owens leva On para Nevada, onde ela é obrigada a encarar o passado. Em Hawkins, a turma vasculha uma casa em ruínas atrás de pistas. Vecna faz mais uma vítima.",
+    "language": "pt-BR",
+    "episode_uuid": "07a4fe52-d9cb-476e-b981-a1a05f5ef81c"
+  },
+  {
+    "title": "Mergulho",
+    "description": "Uma missão de resgate arriscada toma forma. Na Califórnia, os garotos pedem ajuda a uma hacker. Steve se sacrifica pelo grupo.",
+    "language": "pt-BR",
+    "episode_uuid": "ffd88734-834a-4cb4-b620-4f9fe97aea31"
+  },
+  {
+    "title": "O massacre no laboratório de Hawkins",
+    "description": "Hopper se prepara para uma batalha épica. Dustin investiga as motivações secretas de Vecna e decodifica uma mensagem do além. On encontra forças numa lembrança distante.",
+    "language": "pt-BR",
+    "episode_uuid": "6adf4b0e-134e-466d-9c62-763b339da1a4"
+  },
+  {
+    "title": "Papai",
+    "description": "Nancy tem visões preocupantes. Onze consegue dar um passo importante. Em Hawkins, a turma se prepara para a batalha.",
+    "language": "pt-BR",
+    "episode_uuid": "922abde7-eff1-4cf5-b643-37ed1aad6be5"
+  },
+  {
+    "title": "E o plano de Onze",
+    "description": "Com muito amor no coração e um toque de metal, os heróis lutam para salvar Hawkins e o mundo.",
+    "language": "pt-BR",
+    "episode_uuid": "04984f61-7c04-4cec-8fc7-bc0786df8d4c"
+  }
+]

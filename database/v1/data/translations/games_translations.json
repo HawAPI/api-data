@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Stranger Things: The Game",
+    "description": "Join Hopper and the kids for bruising missions around Hawkins - and the Upside Down - in this stylized retro adventure filled with collectibles. It's 1984 all over again. Experience an action adventure game just like the ones our heroes would have played back in the day. Explore Hawkins and its surroundings. See your favorite locations like Mirkwood Forest and Hawkins Lab. Uncover exciting areas you've never seen before! Solve puzzles with the unique abilities of each character. Lucas can nail anything with his Wrist Rocket. Nancy has an entire collection of bats to swing this time. Collect all the Eggos and gnomes you can lay your hands on. You never know what they might unlock.",
+    "language": "en-US",
+    "genres": [
+      "Adventure",
+      "Role-Playing (RPG)"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=OthEKbkPftk",
+    "game_uuid": "00c0d5d4-4ba6-4f63-9062-8c1c4cb37f88"
+  },
+  {
+    "name": "Stranger Things 3: The Game",
+    "description": "Explore through the world of the hit Netflix original series in the official game for Stranger Things 3!",
+    "language": "en-US",
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Role-Playing (RPG)",
+      "Action",
+      "Fighting"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=9p7L71jeERk",
+    "game_uuid": "12bfd7da-9126-4e5f-b065-6e32bc0afc86"
+  },
+  {
+    "name": "Stranger Things: Puzzle Tales",
+    "description": "Battle the Demogorgon, embark on mysterious quests, collect characters and discover new storylines in this Hawkins-inspired stylized adventure game.",
+    "language": "en-US",
+    "genres": [
+      "Role-Playing (RPG)",
+      "Puzzle"
+    ],
+    "trailer": "https://www.youtube.com/watch?v=XiiMDcOIdyA",
+    "game_uuid": "23ef239a-26e1-455c-bd4e-e3e5ca3f6bf6"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Stranger Things: O Jogo",
+    "description": "Junte-se a Hopper e as crianças em missões em torno de Hawkins - e do Mundo Invertido - nesta aventura retrô estilizada repleta de itens colecionáveis. É 1984. Experimente um jogo de ação e aventura como os que nossos heróis jogaram no passado. Explore Hawkins e seus arredores. Veja seus locais favoritos, como Mirkwood Forest e Hawkins Lab. Descubra áreas emocionantes que você nunca viu antes! Resolva quebra-cabeças com as habilidades únicas de cada personagem. Lucas pode acertar qualquer coisa com seu Wrist Rocket. Nancy tem uma coleção inteira de morcegos para balançar desta vez. Recolha todos os Eggos e gnomos que você pode colocar em suas mãos. Você nunca sabe o que eles podem desbloquear.",
+    "trailer": "https://www.youtube.com/watch?v=OthEKbkPftk",
+    "game_uuid": "00c0d5d4-4ba6-4f63-9062-8c1c4cb37f88"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Stranger Things 3: O Jogo",
+    "description": "Explore o mundo da série original de sucesso da Netflix no jogo oficial de Stranger Things 3!",
+    "trailer": "https://www.youtube.com/watch?v=9p7L71jeERk",
+    "game_uuid": "12bfd7da-9126-4e5f-b065-6e32bc0afc86"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Stranger Things: Puzzle Tales",
+    "description": "Lute contra o Demogorgon, embarque em missões misteriosas, colete personagens e descubra novas histórias neste jogo de aventura estilizado inspirado em Hawkins.",
+    "trailer": "https://www.youtube.com/watch?v=Eor02MdLYis",
+    "game_uuid": "23ef239a-26e1-455c-bd4e-e3e5ca3f6bf6"
+  }
+]

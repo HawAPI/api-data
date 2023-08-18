@@ -1,0 +1,590 @@
+[
+  {
+    "uuid": "52b8e340-aa3b-4899-af56-4bd727512cbd",
+    "href": "/api/v1/actors/52b8e340-aa3b-4899-af56-4bd727512cbd",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Finn_Wolfhard"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmI5e.png",
+    "gender": 1,
+    "nationality": "Canadian",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/ef69d278-76be-478e-a087-c81071cb83c3",
+    "socials": [
+      {
+        "social": "Instagram",
+        "handle": "@finnwolfhardofficial",
+        "url": "https://www.instagram.com/finnwolfhardofficial"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@finnwolfhard",
+        "url": "https://www.twitter.com/finnwolfhard"
+      },
+      {
+        "social": "Facebook",
+        "handle": "@FinnWolfhardOfficial",
+        "url": "https://www.facebook.com/FinnWolfhardOfficial"
+      },
+      {
+        "social": "Youtube",
+        "handle": "@finnwolfhard8881",
+        "url": "https://www.youtube.com/@finnwolfhard8881"
+      }
+    ],
+    "images": [
+      "https://media.cnn.com/api/v1/images/stellar/prod/230605141033-01-finn-wolfhard-file.jpg",
+      "https://assets.teenvogue.com/photos/5e5e76939c18f10008d38c44/1:1/w_1600%2Cc_limit/tout.jpg",
+      "https://s2.glbimg.com/smRvDdlBXvLj_f34r7L1_5lZQ7A=/smart/e.glbimg.com/og/ed/f/original/2020/03/03/finn_wolfhard_gettyimages-1201095531.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYjlkNTdhNjYtYTFhNy00MTUxLWIwNTgtMTE5NTY5Y2I3MDc0XkEyXkFqcGdeQXVyNjY5NDgzNjQ@._V1_FMjpg_UX1000_.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.652",
+    "updated_at": "2023-07-27T11:48:58.652",
+    "first_name": "Finn",
+    "last_name": "Wolfhard",
+    "birth_date": "2002-12-23"
+  },
+  {
+    "uuid": "e926c3b3-cf32-4906-b820-54ec7896cbae",
+    "href": "/api/v1/actors/e926c3b3-cf32-4906-b820-54ec7896cbae",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Millie_Bobby_Brown"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmCYC.png",
+    "gender": 2,
+    "nationality": "British",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/6ffa607c-40c4-41c5-b603-17c396dd2310",
+    "socials": [
+      {
+        "social": "Facebook",
+        "handle": "@milliebobbybrown",
+        "url": "https://www.facebook.com/milliebobbybrown"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@milliebobbybrown",
+        "url": "https://www.instagram.com/milliebobbybrown"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@Milliestopshate",
+        "url": "https://www.twitter.com/Milliestopshate"
+      }
+    ],
+    "images": [
+      "https://br.web.img2.acsta.net/pictures/19/07/05/23/57/3783349.jpg",
+      "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_jzekk58i/width//type/2/bgcolor/000000/0_jzekk58i.jpg",
+      "https://vz.cnwimg.com/wp-content/uploads/2021/11/millie-bobby-brown.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/millie-bobby-brown-hair-extensions-1649328299.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.67",
+    "updated_at": "2023-07-27T11:48:58.67",
+    "first_name": "Millie",
+    "last_name": "Bobby Brown",
+    "birth_date": "2004-02-19"
+  },
+  {
+    "uuid": "6e8d95ce-babf-4042-8db8-eeaa76866118",
+    "href": "/api/v1/actors/6e8d95ce-babf-4042-8db8-eeaa76866118",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Gaten_Matarazzo"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmutS.png",
+    "gender": 1,
+    "nationality": "Italian-American",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/323d50d2-abb5-474c-9e7d-b7ff481e2d58",
+    "socials": [
+      {
+        "social": "Instagram",
+        "handle": "@gatenm123",
+        "url": "https://www.instagram.com/gatenm123"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@GatenM123",
+        "url": "https://twitter.com/GatenM123"
+      }
+    ],
+    "images": [
+      "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2020_05/3212236/200201-gaten-matarazzo-al-0916.jpg",
+      "https://cloudimages.broadwayworld.com/upload13/2207068/tn-500_22.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNTkyNDIyMzQ5OF5BMl5BanBnXkFtZTgwNDUwMDM2NDM@._V1_.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/gaten-matarazzo-641b2dc7bcc7d.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.685",
+    "updated_at": "2023-07-27T11:48:58.685",
+    "first_name": "Gaten",
+    "last_name": "Matarazzo",
+    "birth_date": "2002-09-08"
+  },
+  {
+    "uuid": "89faf6c1-6a56-4532-b6fc-6a2b1d0e718c",
+    "href": "/api/v1/actors/89faf6c1-6a56-4532-b6fc-6a2b1d0e718c",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Caleb_McLaughlin"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmMci.png",
+    "gender": 1,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/f207fdcb-8ed1-4bc5-8290-5776647650da",
+    "socials": [
+      {
+        "social": "Instagram",
+        "handle": "@therealcalebmclaughlin",
+        "url": "https://www.instagram.com/therealcalebmclaughlin/"
+      },
+      {
+        "social": "TikTok",
+        "handle": "@therealcalebmclaughlin",
+        "url": "https://www.tiktok.com/@therealcalebmclaughlin"
+      },
+      {
+        "social": "Facebook",
+        "handle": "@calebmclaughlin",
+        "url": "https://www.facebook.com/calebmclaughlin/"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@calebmclaughlin",
+        "url": "https://twitter.com/calebmclaughlin"
+      }
+    ],
+    "images": [
+      "https://robbreport.com/wp-content/uploads/2023/05/gettyimages-1469590231-594x594-1.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/stranger-things-star-caleb-mclaughlin-speaks-out-about-racist-treatment-and-being-the-least-favourite-1664451413.jpg",
+      "https://people.com/thmb/qXYb-yiV15ke7DnkXsnujQ0z0NM=/1500x0/caleb-mclaughlin-2000-73a7a1bdeaa0430d96aaa5cdaa172891.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/netflix-concrete-cowboy-1267-1617638586.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.698",
+    "updated_at": "2023-07-27T11:48:58.698",
+    "first_name": "Caleb",
+    "last_name": "McLaughlin",
+    "birth_date": "2001-10-13"
+  },
+  {
+    "uuid": "71b78a1c-73b4-4e70-96bc-b14602e554c5",
+    "href": "/api/v1/actors/71b78a1c-73b4-4e70-96bc-b14602e554c5",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmczH.png",
+    "gender": 1,
+    "nationality": "Canadian",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/bb7b93ef-1515-4a18-806d-5c2b464f3cc6",
+    "socials": [
+      {
+        "social": "TikTok",
+        "handle": "@noahschnapp",
+        "url": "https://www.tiktok.com/@noahschnapp"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@noahschnapp",
+        "url": "https://www.instagram.com/noahschnapp/"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@noah_schnapp",
+        "url": "https://www.twitter.com/noah_schnapp"
+      },
+      {
+        "social": "Youtube",
+        "handle": "@NoahSchnapp",
+        "url": "https://www.youtube.com/@NoahSchnapp/"
+      }
+    ],
+    "images": [
+      "https://flxt.tmsimg.com/assets/845613_v9_bd.jpg",
+      "https://assets.popbuzz.com/2022/22/where-is-noah-schnapp-going-to-college-1653927214-view-0.jpg",
+      "https://variety.com/wp-content/uploads/2023/01/noah-schnapp.jpg",
+      "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/06/26175444/Noah-Schnapp-1.webp"
+    ],
+    "created_at": "2023-07-27T11:48:58.712",
+    "updated_at": "2023-07-27T11:48:58.712",
+    "first_name": "Noah",
+    "last_name": "Schnapp",
+    "birth_date": "2004-10-04"
+  },
+  {
+    "uuid": "259b106a-31c1-489c-8d74-43fc874e7b2c",
+    "href": "/api/v1/actors/259b106a-31c1-489c-8d74-43fc874e7b2c",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Sadie_Sink"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmwe2.png",
+    "gender": 2,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/968502f4-35d5-4038-857a-b7660c19ff53",
+    "socials": [
+      {
+        "social": "Twitter",
+        "handle": "@sadiesink",
+        "url": "https://www.twitter.com/sadiesink"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@sadiesink_",
+        "url": "https://www.instagram.com/sadiesink_/"
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BYTUwZDRmNWUtMDUxMS00NTY1LWJjYTAtNjgyNTllNzZjMDFlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "https://flxt.tmsimg.com/assets/785124_v9_bd.jpg",
+      "https://hips.hearstapps.com/hmg-prod/images/sadie-sink-gettyimages-1670617941.jpg",
+      "https://images.mubicdn.net/images/cast_member/560603/cache-281592-1565498018/image-w856.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.724",
+    "updated_at": "2023-07-27T11:48:58.724",
+    "first_name": "Sadie",
+    "last_name": "Sink",
+    "birth_date": "2002-04-16"
+  },
+  {
+    "uuid": "95ed14fc-0692-49d0-8cb1-a9efc013932a",
+    "href": "/api/v1/actors/95ed14fc-0692-49d0-8cb1-a9efc013932a",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Natalia_Dyer"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmjG8.png",
+    "gender": 2,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/42013499-bd32-4a71-981c-5317473516dd",
+    "socials": [
+      {
+        "social": "Twitter",
+        "handle": "@NataliaDyer",
+        "url": "https://www.twitter.com/NataliaDyer"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@nattyiceofficial",
+        "url": "https://www.instagram.com/nattyiceofficial/"
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BOTIxMzc4NjI5NF5BMl5BanBnXkFtZTgwNjQ0NTUzNjM@._V1_FMjpg_UX1000_.jpg",
+      "https://assets.teenvogue.com/photos/6297a9af577a4e4211debc3e/3:2/w_2538,h_1692,c_limit/nataliadyer.jpg",
+      "https://www.melhoresfilmes.com.br/storage/imgs/actors/74134.jpg",
+      "https://br.web.img2.acsta.net/pictures/19/07/08/15/48/2566020.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.735",
+    "updated_at": "2023-07-27T11:48:58.735",
+    "first_name": "Natalia",
+    "last_name": "Dyer",
+    "birth_date": "1995-01-13"
+  },
+  {
+    "uuid": "e2216b8e-9f04-4e3e-b4d5-5217f4684082",
+    "href": "/api/v1/actors/e2216b8e-9f04-4e3e-b4d5-5217f4684082",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Joe_Keery"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmDg9.png",
+    "gender": 1,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/8ee8e64b-78c6-4b98-9b53-9379807551e1",
+    "socials": [
+      {
+        "social": "Instagram",
+        "handle": "@djotime",
+        "url": "https://www.instagram.com/djotime/"
+      },
+      {
+        "social": "Youtube",
+        "handle": "@djomusic887",
+        "url": "https://www.youtube.com/@djomusic887"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@djotime",
+        "url": "https://www.twitter.com/djotime"
+      },
+      {
+        "social": "Facebook",
+        "handle": "@Djokyri",
+        "url": "https://www.facebook.com/Djokyri/"
+      }
+    ],
+    "images": [
+      "https://nationaltoday.com/wp-content/uploads/2022/04/26-Joe-Keery.jpg",
+      "https://wwd.com/wp-content/uploads/2016/08/rexfeatures_5830290db.jpg",
+      "https://deadline.com/wp-content/uploads/2022/08/AP22087299516924.jpg",
+      "https://hollywoodlife.com/wp-content/uploads/2019/09/joe-keery-short-shorts-girlfriend-maika-monroe-mega-1.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.747",
+    "updated_at": "2023-07-27T11:48:58.747",
+    "first_name": "Joe",
+    "last_name": "Keery",
+    "birth_date": "1992-04-23"
+  },
+  {
+    "uuid": "ec6c5daa-8046-4743-85fc-63fd143ef454",
+    "href": "/api/v1/actors/ec6c5daa-8046-4743-85fc-63fd143ef454",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Winona_Ryder"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xmhQy.png",
+    "gender": 2,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/b5f2e581-3791-4de6-acce-c399da157698",
+    "socials": [
+      {
+        "social": "Facebook",
+        "handle": "@WinonaRyder",
+        "url": "https://www.facebook.com/WinonaRyder/"
+      }
+    ],
+    "images": [
+      "https://cdn.britannica.com/57/222457-050-BAA8093E/American-actress-Winona-Ryder-2019.jpg",
+      "https://m.economictimes.com/thumb/winona-ryder.jpg",
+      "https://www.usmagazine.com/wp-content/uploads/2021/10/Winona-Ryder-Through-the-Years-Feature.jpg",
+      "https://www.melhoresfilmes.com.br/storage/imgs/actors/6216.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.759",
+    "updated_at": "2023-07-27T11:48:58.759",
+    "first_name": "Winona",
+    "last_name": "Ryder",
+    "birth_date": "1371-10-29"
+  },
+  {
+    "uuid": "ed0849d1-8dbc-4317-8084-7364d80ef363",
+    "href": "/api/v1/actors/ed0849d1-8dbc-4317-8084-7364d80ef363",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Maya_Hawke"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xepOD.png",
+    "gender": 2,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/2e01bf0e-dca8-4da2-975f-9c1283a99a64",
+    "socials": [
+      {
+        "social": "Twitter",
+        "handle": "@mayahawke",
+        "url": "https://www.twitter.com/mayahawke"
+      },
+      {
+        "social": "Youtube",
+        "handle": "@mayahawke644",
+        "url": "https://www.youtube.com/@mayahawke644"
+      },
+      {
+        "social": "Facebook",
+        "handle": "@MayaHawkeOfficial",
+        "url": "https://www.facebook.com/MayaHawkeOfficial/"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@maya_hawke",
+        "url": "https://www.instagram.com/maya_hawke/"
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BOGYzNjE2MDYtMjhhNi00MGE4LTk1ZDUtM2ZmODZlMmQ2ZjE3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+      "https://media.hugogloss.uol.com.br/uploads/2023/06/FotoJet-11-1.jpg",
+      "https://assets.vogue.com/photos/5d373d363fd5c30008ff2ff8/master/w_2560%2Cc_limit/00-story-maya.jpg",
+      "https://flxt.tmsimg.com/assets/1268382_v9_ba.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.768",
+    "updated_at": "2023-07-27T11:48:58.768",
+    "first_name": "Maya",
+    "last_name": "Hawke",
+    "birth_date": "1998-07-08"
+  },
+  {
+    "uuid": "ffa1c1a1-7242-4967-a295-ace92d2bd32f",
+    "href": "/api/v1/actors/ffa1c1a1-7242-4967-a295-ace92d2bd32f",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/David_Harbour"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xeo5T.png",
+    "gender": 1,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/3b980ad3-aef8-4663-a7a9-64cb4979500a",
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/48bde91d-aa72-465d-ba6d-f8625009561d",
+    "socials": [
+      {
+        "social": "Instagram",
+        "handle": "@dkharbour",
+        "url": "https://www.instagram.com/dkharbour/"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@DavidKHarbour",
+        "url": "https://www.twitter.com/DavidKHarbour"
+      }
+    ],
+    "images": [
+      "https://cdn.britannica.com/53/244253-050-579D9771/Actor-David-Harbour-2022.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZTc5ODUzMDAtZGFhZS00NmExLTlhYWYtZDY0NGI2MGMwYTIzXkEyXkFqcGdeQXVyODY0MzQyODc@._V1_.jpg",
+      "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7b/David_Harbour.jpg",
+      "https://media.gq-magazine.co.uk/photos/62c2aac01e96714691fd64ed/master/w_1600%2Cc_limit/July%252004%2520-%2520David%2520Harbour_Online5.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.78",
+    "updated_at": "2023-07-27T11:48:58.78",
+    "first_name": "David",
+    "last_name": "Harbour",
+    "birth_date": "1975-04-10"
+  },
+  {
+    "uuid": "4ae2fc77-8f40-48ba-b4d6-1cc6b564dfd3",
+    "href": "/api/v1/actors/4ae2fc77-8f40-48ba-b4d6-1cc6b564dfd3",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Brett_Gelman"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xeJDt.png",
+    "gender": 1,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/d4e6d329-d8c3-46ea-9657-21e5984d773e",
+    "socials": [
+      {
+        "social": "Twitter",
+        "handle": "@Brettgelman",
+        "url": "https://www.twitter.com/Brettgelman"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@brettgelman",
+        "url": "https://www.instagram.com/brettgelman/"
+      },
+      {
+        "social": "TikTok",
+        "handle": "@brettgelman",
+        "url": "https://www.tiktok.com/@brettgelman"
+      }
+    ],
+    "images": [
+      "https://i.guim.co.uk/img/media/929ce0ceb604dcee906545720e487964c4fdd368/0_13_4815_2889/master/4815.jpg",
+      "https://deadline.com/wp-content/uploads/2022/05/brettgelmancolor-e1654019340351.jpeg",
+      "https://hips.hearstapps.com/hmg-prod/images/277a6040-jpg-1653659081.jpg",
+      "https://deadline.com/wp-content/uploads/2020/03/brett-gelman-e1583242642910.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.793",
+    "updated_at": "2023-07-27T11:48:58.793",
+    "first_name": "Brett",
+    "last_name": "Gelman",
+    "birth_date": "1976-10-06"
+  },
+  {
+    "uuid": "ac7df2a6-1b65-4300-af81-d0c69157c65a",
+    "href": "/api/v1/actors/ac7df2a6-1b65-4300-af81-d0c69157c65a",
+    "sources": [
+      "https://www.netflix.com/tudum/stranger-things/cast",
+      "https://en.wikipedia.org/wiki/Priah_Ferguson"
+    ],
+    "thumbnail": "https://s6.imgcdn.dev/xeEtw.png",
+    "gender": 2,
+    "nationality": "American",
+    "seasons": [
+      "/api/v1/seasons/1ff70278-fe7c-4619-9e37-91820eaa37b9",
+      "/api/v1/seasons/b956e444-8489-4bf9-9dd0-fb6b7683638a",
+      "/api/v1/seasons/4bae1f7c-04ff-40d7-a161-83d8608fbe1c"
+    ],
+    "character": "/api/v1/characters/7252f514-dac5-4032-a006-f4f58ab9a890",
+    "socials": [
+      {
+        "social": "TikTok",
+        "handle": "@priahfergusonofficial",
+        "url": "https://www.tiktok.com/@priahfergusonofficial"
+      },
+      {
+        "social": "Instagram",
+        "handle": "@priahferguson",
+        "url": "https://www.instagram.com/priahferguson/"
+      },
+      {
+        "social": "Twitter",
+        "handle": "@priahferguson",
+        "url": "https://www.twitter.com/priahferguson"
+      }
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/M/MV5BOGVlZTE4NjUtZjljNS00MGIzLTgwYTctZWE5ZDJmMmFhZDYwXkEyXkFqcGdeQXVyNjMzNjM4MDA@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjE0OGZlNTUtNTI1YS00YzZiLTk0ZjItZmI3YmYwZGJkZDZhXkEyXkFqcGdeQXVyNjMzNjM4MDA@._V1_.jpg",
+      "https://variety.com/wp-content/uploads/2021/08/Priah-Ferguson.jpg",
+      "https://static.wikia.nocookie.net/strangerthings8338/images/a/ac/Priah_Ferguson2111.jpg"
+    ],
+    "created_at": "2023-07-27T11:48:58.803",
+    "updated_at": "2023-07-27T11:48:58.803",
+    "first_name": "Priah",
+    "last_name": "Ferguson",
+    "birth_date": "2006-10-01"
+  }
+]

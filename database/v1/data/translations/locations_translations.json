@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Benny's Burgers",
+    "description": "Benny's Burgers was a diner in Hawkins, Indiana. Located at 4819 Randolph Lane, the diner was family owned and operated by the Hammonds since 1956.",
+    "language": "en-US",
+    "location_uuid": "b2b55930-0fd1-485c-9292-7da716756b8e"
+  },
+  {
+    "name": "Bradley's Big Buy",
+    "description": "Bradley's Big Buy is a supermarket located in Hawkins.",
+    "language": "en-US",
+    "location_uuid": "5d99a642-5f71-4a69-a060-4760732d5b29"
+  },
+  {
+    "name": "Byers House (Hawkins)",
+    "description": "The former residence of the Byers family and Eleven was located in Hawkins, Indiana. The house was somewhat run down and in worse-for-wear condition.",
+    "language": "en-US",
+    "location_uuid": "b7a909e2-dd00-46c5-887c-dcc3a67eeb07"
+  },
+  {
+    "name": "Brimborn Steel Works",
+    "description": "The Brimborn Steel Works was an abandoned steel mill located in Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "cf50e6b8-e6c8-41b7-88d1-96e1648ba110"
+  },
+  {
+    "name": "Lover's Lake",
+    "description": "Lover's Lake was a lake in Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "44c0464b-7e58-42ba-afa6-e6df66a71e83"
+  },
+  {
+    "name": "Castle Byers",
+    "description": "Castle Byers was a makeshift fort made by Will and Jonathan Byers in the forest near the Byers house.",
+    "language": "en-US",
+    "location_uuid": "2168ca2f-b5bd-48d8-83f8-3f1cfa49bbb7"
+  },
+  {
+    "name": "Curse gates",
+    "description": "The curse gates were four specific gates opened by Vecna in March 1986. Through his \"curse\" power, Vecna began tormenting and killing various Hawkins residents",
+    "language": "en-US",
+    "location_uuid": "d96884e6-44bd-4ac2-9788-9b0e0c157980"
+  },
+  {
+    "name": "Creel House",
+    "description": "The Creel House was the Creel family's short-lived residence in Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "f9b453df-d15d-4e3e-9276-1e433a235e99"
+  },
+  {
+    "name": "Mayfield trailer",
+    "description": "The Mayfield trailer is a trailer home that Max Mayfield and her mother lived in after Max's stepfather.",
+    "language": "en-US",
+    "location_uuid": "f374c7fd-4468-458d-a219-cf71c7a1254a"
+  },
+  {
+    "name": "Melvald's General Store",
+    "description": "Melvald's General Store was run by Donald Melvald and employed Joyce Byers and Jeffrey.",
+    "language": "en-US",
+    "location_uuid": "b66fff17-2485-449a-b7de-2917e8e6605b"
+  },
+  {
+    "name": "Munson trailer",
+    "description": "The Munson trailer was a trailer home where Eddie Munson lived with his uncle Wayne.",
+    "language": "en-US",
+    "location_uuid": "430bc557-c57c-4108-bbc3-87c76498e0a9"
+  },
+  {
+    "name": "Murray's warehouse",
+    "description": "A warehouse located at 3833 Walker Drive in Sesser, Illinois was the residence of Murray Bauman.",
+    "language": "en-US",
+    "location_uuid": "94445409-d8ef-4c66-86c4-9231a60bba15"
+  },
+  {
+    "name": "Palace Arcade",
+    "description": "The Palace was a local arcade in Hawkins. It featured a variety of games, including Dragon's Lair and Dig Dug",
+    "language": "en-US",
+    "location_uuid": "514e9a17-69f1-4259-96d2-6575253c05b0"
+  },
+  {
+    "name": "Pennhurst Mental Hospital",
+    "description": "Pennhurst Mental Hospital was a hospital located in Kerley County, Indiana. It housed patients with a wide variety of mental illnesses, including the supposed murderer, Victor Creel.",
+    "language": "en-US",
+    "location_uuid": "936a8969-59d3-4259-8dea-f72e20f14830"
+  },
+  {
+    "name": "Rink-O-Mania",
+    "description": "The Rink-O-Mania is a roller-skating rink located in Lenora Hills, California. It is implied that the Rink-O-Mania is a popular spot in the town, with even work parties being thrown there.",
+    "language": "en-US",
+    "location_uuid": "22c35e53-79bc-417c-b080-028ba0173445"
+  },
+  {
+    "name": "Rainbow Room",
+    "description": "The \"Rainbow Room\" was a playroom Dr. Brenner set up for the psychokinetic child test subjects of Hawkins National Laboratory.",
+    "language": "en-US",
+    "location_uuid": "fe841b02-d460-43f4-8b50-f6d045e919a1"
+  },
+  {
+    "name": "Fun Fair",
+    "description": "The Fun Fair, also referred to as Roane County Fair, was an event held on 4 July, 1985 in Hawkins, Indiana in celebration of America's Independence Day.",
+    "language": "en-US",
+    "location_uuid": "6a30b3df-905e-456f-95c9-a56a3400124f"
+  },
+  {
+    "name": "Family Video",
+    "description": "\"Family Video Movie Club Inc.\" was an American video rental chain serving the United States and Canada.",
+    "language": "en-US",
+    "location_uuid": "1ff9769b-6bcd-4cd7-adaa-b784d050ef1c"
+  },
+  {
+    "name": "Harrington House",
+    "description": "The Harrington family had a residence in Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "a86b9f9b-1bcb-443f-9986-c6964534d0ff"
+  },
+  {
+    "name": "Hawk Theater",
+    "description": "The Hawk was a movie theater located in downtown Hawkins, in the town square.",
+    "language": "en-US",
+    "location_uuid": "930c5ed9-a9b6-4a97-b255-541057c0a200"
+  },
+  {
+    "name": "Roane Hill Cemetery",
+    "description": "Roane Hill Cemetery is a cemetery located in Roane County, Indiana.",
+    "language": "en-US",
+    "location_uuid": "c1e84e04-a4f5-4024-befc-93ad0602d50b"
+  },
+  {
+    "name": "The Nina Project",
+    "description": "\"The Nina Project\" was the codename of a top secret government facility and program located in the Nevada desert, conceived and developed by former Hawkins Lab directors Dr. Martin Brenner and Dr. Sam Owens.",
+    "language": "en-US",
+    "location_uuid": "fc0360cd-d47b-4aac-a163-4dfa5d026f56"
+  },
+  {
+    "name": "Hopper's trailer",
+    "description": "A lakeside trailer in Hawkins, Indiana was the residence of local police chief Jim Hopper.",
+    "language": "en-US",
+    "location_uuid": "f816880e-5561-496c-9b6d-f1f763f6db64"
+  },
+  {
+    "name": "Hopper's cabin",
+    "description": "Hopper's cabin is the residence of Jim Hopper and Eleven in Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "c2824b46-f548-4a42-9f9e-b311a9684a84"
+  },
+  {
+    "name": "Henderson House",
+    "description": "The Henderson House is the residence of Dustin and Claudia Henderson, Yurtle and Tews, and until 1984, Mews.",
+    "language": "en-US",
+    "location_uuid": "3c01fcf8-a744-44f9-baaf-7532f426c13d"
+  },
+  {
+    "name": "Vecna's Mind Lair",
+    "description": "Vecna's Mindscape, or the Mind Lair, is a visual representation of Vecna's mind, a psychic terrain consciously created by Vecna sometime between 1979 and 1986.",
+    "language": "en-US",
+    "location_uuid": "b7695bce-2174-40a1-86fc-35e74ac6aaf2"
+  },
+  {
+    "name": "The Void",
+    "description": "The Void is a visual representation of a psychokinetic test subject's mind when immersed in a highly particular psychic state.",
+    "language": "en-US",
+    "location_uuid": "9ea0cb5d-4ce9-4314-92c9-a50f757482c4"
+  },
+  {
+    "name": "Wheeler House",
+    "description": "The residence of the Wheeler family was in Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "24e6bf53-320c-4619-a1ec-47a21440f76e"
+  },
+  {
+    "name": "The Upside Down",
+    "description": "The Upside Down was a name given to describe a mysterious alternate dimension existing in parallel to the human world.",
+    "language": "en-US",
+    "location_uuid": "d28889cd-4c3e-4d5f-9767-67b0b052e6a0"
+  },
+  {
+    "name": "Starcourt Mall",
+    "description": "Starcourt Mall was a shopping center located at 10 Old Highway 77, Hawkins, Indiana.",
+    "language": "en-US",
+    "location_uuid": "333def7e-0e39-4597-b2b1-3f4fc2dd11ec"
+  },
+  {
+    "name": "Hawkins High School",
+    "description": "Hawkins High School is the high school in the town of Hawkins.",
+    "language": "en-US",
+    "location_uuid": "6b7840c7-4c28-4aa3-a911-c67bd2ce9618"
+  },
+  {
+    "name": "Hawkins National Laboratory",
+    "description": "Hawkins National Laboratory was a secretive federal complex located in Hawkins, Indiana",
+    "language": "en-US",
+    "location_uuid": "818a1b29-8e43-4b51-ac2d-d67e8b4b54d7"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Hamburgueria do Benny",
+    "description": "A Hamburgueria do Benny era uma lanchonete em Hawkins, Indiana. Localizada em 4819 Randolph Lane, a lanchonete era de propriedade familiar e operada pelos Hammonds desde 1956.",
+    "location_uuid": "b2b55930-0fd1-485c-9292-7da716756b8e"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Bradley's Big Buy",
+    "description": "Bradley's Big Buy é um supermercado localizado em Hawkins.",
+    "location_uuid": "5d99a642-5f71-4a69-a060-4760732d5b29"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Casa dos Byers (Hawkins)",
+    "description": "A antiga residência da família Byers e Eleven estava localizada em Hawkins, Indiana. A casa estava um tanto degradada e em péssimo estado de conservação.",
+    "location_uuid": "b7a909e2-dd00-46c5-887c-dcc3a67eeb07"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Brimborn Steel Works",
+    "description": "A Brimborn Steel Works era uma siderúrgica abandonada localizada em Hawkins, Indiana.",
+    "location_uuid": "cf50e6b8-e6c8-41b7-88d1-96e1648ba110"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Lago dos amantes",
+    "description": "Lover's Lake era um lago em Hawkins, Indiana.",
+    "location_uuid": "44c0464b-7e58-42ba-afa6-e6df66a71e83"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Castelo dos Byers",
+    "description": "Castelo dos Byers era um forte improvisado feito por Will e Jonathan Byers na floresta perto da casa de Byers.",
+    "location_uuid": "2168ca2f-b5bd-48d8-83f8-3f1cfa49bbb7"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Portões amaldiçoados",
+    "description": "Os portões da maldição eram quatro portões específicos abertos por Vecna em março de 1986. Através de seu poder de \"maldição\", Vecna começou a atormentar e matar vários residentes de Hawkins.",
+    "location_uuid": "d96884e6-44bd-4ac2-9788-9b0e0c157980"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Casa dos Creel",
+    "description": "A Casa dos Creel foi a residência de curta duração da família Creel em Hawkins, Indiana.",
+    "location_uuid": "f9b453df-d15d-4e3e-9276-1e433a235e99"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Trailer de Mayfield",
+    "description": "O trailer de Mayfield é um trailer em que Max Mayfield e sua mãe viveram depois do padrasto de Max.",
+    "location_uuid": "f374c7fd-4468-458d-a219-cf71c7a1254a"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Loja geral de Melvald",
+    "description": "A Loja geral de Melvald era administrado por Donald Melvald e empregava Joyce Byers e Jeffrey.",
+    "location_uuid": "b66fff17-2485-449a-b7de-2917e8e6605b"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Trailer de Munson",
+    "description": "O trailer de Munson era um trailer onde Eddie Munson morava com seu tio Wayne.",
+    "location_uuid": "430bc557-c57c-4108-bbc3-87c76498e0a9"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Armazém do Murray",
+    "description": "Um armazém localizado na 3833 Walker Drive em Sesser, Illinois, era a residência de Murray Bauman.",
+    "location_uuid": "94445409-d8ef-4c66-86c4-9231a60bba15"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Palace Arcade",
+    "description": "O Palace era um fliperama local em Hawkins. Apresentava uma variedade de jogos, incluindo Dragon's Lair e Dig Dug",
+    "location_uuid": "514e9a17-69f1-4259-96d2-6575253c05b0"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Hospital Psiquiátrico de Pennhurst",
+    "description": "Hospital Psiquiátrico de Pennhurst era um hospital localizado no Condado de Kerley, Indiana. Abrigava pacientes com uma grande variedade de doenças mentais, incluindo o suposto assassino, Victor Creel.",
+    "location_uuid": "936a8969-59d3-4259-8dea-f72e20f14830"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Rink-O-Mania",
+    "description": "O Rink-O-Mania é um rinque de patinação localizado em Lenora Hills, Califórnia. Está implícito que o Rink-O-Mania é um local popular na cidade, com até grupos de trabalho sendo organizados lá.",
+    "location_uuid": "22c35e53-79bc-417c-b080-028ba0173445"
+  },
+  {
+    "language": "pt-BR",
+    "name": "O quarto arco-íris",
+    "description": "A \"Sala Arco-Íris\" era uma sala de jogos que o Dr. Brenner montou para as cobaias infantis psicocinéticas do Laboratório Nacional Hawkins.",
+    "location_uuid": "fe841b02-d460-43f4-8b50-f6d045e919a1"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Feira de diversões",
+    "description": "A Feira de diversões, também conhecida como Feira do Condado de Roane, foi um evento realizado em 4 de julho de 1985 em Hawkins, Indiana, em comemoração ao Dia da Independência dos Estados Unidos.",
+    "location_uuid": "6a30b3df-905e-456f-95c9-a56a3400124f"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Family Video",
+    "description": "\"Family Video Movie Club Inc.\" foi uma rede de locadoras de vídeo americana que atende os Estados Unidos e o Canadá.",
+    "location_uuid": "1ff9769b-6bcd-4cd7-adaa-b784d050ef1c"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Casa dos Harrington",
+    "description": "A família Harrington tinha uma residência em Hawkins, Indiana.",
+    "location_uuid": "a86b9f9b-1bcb-443f-9986-c6964534d0ff"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Teatro Hawk",
+    "description": "O Hawk era um cinema localizado no centro de Hawkins, na praça da cidade.",
+    "location_uuid": "930c5ed9-a9b6-4a97-b255-541057c0a200"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Cemitério de Roane Hill",
+    "description": "O Cemitério de Roane Hill é um cemitério localizado no Condado de Roane, Indiana.",
+    "location_uuid": "c1e84e04-a4f5-4024-befc-93ad0602d50b"
+  },
+  {
+    "language": "pt-BR",
+    "name": "O Projeto Nina",
+    "description": "\"O Projeto Nina\" era o codinome de uma instalação e programa secreto do governo localizado no deserto de Nevada, concebido e desenvolvido pelos ex-diretores do Hawkins Lab, Dr. Martin Brenner e Dr. Sam Owens.",
+    "location_uuid": "fc0360cd-d47b-4aac-a163-4dfa5d026f56"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Trailer de Hopper",
+    "description": "Um trailer à beira do lago em Hawkins, Indiana, era a residência do chefe de polícia local Jim Hopper.",
+    "location_uuid": "f816880e-5561-496c-9b6d-f1f763f6db64"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Cabana do Hopper",
+    "description": "A cabana de Hopper é a residência de Jim Hopper e Eleven em Hawkins, Indiana.",
+    "location_uuid": "c2824b46-f548-4a42-9f9e-b311a9684a84"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Casa dos Henderson",
+    "description": "A Casa dos Henderson é a residência de Dustin e Claudia Henderson, Yurtle e Tews, e até 1984, Mews.",
+    "location_uuid": "3c01fcf8-a744-44f9-baaf-7532f426c13d"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Covil da Mente do Vecna",
+    "description": "A Mente do Vecna, ou Covil da Mente, é uma representação visual da mente de Vecna, um terreno psíquico conscientemente criado por Vecna em algum momento entre 1979 e 1986.",
+    "location_uuid": "b7695bce-2174-40a1-86fc-35e74ac6aaf2"
+  },
+  {
+    "language": "pt-BR",
+    "name": "O Vazio",
+    "description": "O Vazio é uma representação visual da mente de um sujeito de teste psicocinético quando imerso em um estado psíquico altamente particular.",
+    "location_uuid": "9ea0cb5d-4ce9-4314-92c9-a50f757482c4"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Casa dos Wheeler",
+    "description": "A residência da família Wheeler era em Hawkins, Indiana.",
+    "location_uuid": "24e6bf53-320c-4619-a1ec-47a21440f76e"
+  },
+  {
+    "language": "pt-BR",
+    "name": "O Mundo Invertido",
+    "description": "O Mundo Invertido foi um nome dado para descrever uma misteriosa dimensão alternativa existente em paralelo com o mundo humano.",
+    "location_uuid": "d28889cd-4c3e-4d5f-9767-67b0b052e6a0"
+  },
+  {
+    "language": "pt-BR",
+    "name": "O Shopping Starcount",
+    "description": "O Starcourt Mall era um shopping center localizado na 10 Old Highway 77, Hawkins, Indiana.",
+    "location_uuid": "333def7e-0e39-4597-b2b1-3f4fc2dd11ec"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Escola de ensino médio de Hawkins",
+    "description": "A Escola de ensino médio de Hawkins",
+    "location_uuid": "6b7840c7-4c28-4aa3-a911-c67bd2ce9618"
+  },
+  {
+    "language": "pt-BR",
+    "name": "Laboratório Nacional de Hawkins",
+    "description": "O Laboratório Nacional de Hawkins era um complexo federal secreto localizado em Hawkins, Indiana",
+    "location_uuid": "818a1b29-8e43-4b51-ac2d-d67e8b4b54d7"
+  }
+]
