@@ -3,5 +3,3 @@ dev/
 
 .env
 .env.dev
-
-*.sql
